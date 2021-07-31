@@ -27,7 +27,7 @@ Health or saturation can be either directly set (`"h7"`) or changed based on the
 ### Examples:
 
 `Rule("Baked Vegetable Medly", "h4;s.5")`
-    2 drumsticks of food value (health) and 2 drumstick of saturation (4 * 0.5 * 2)
+    2 drumsticks of food value (health) and 2 drumstick of saturation (4 \* 0.5 \* 2)
     
 `Rule("* Pie", "s.7", "h9:h8")`
     All pies have a saturation of 1.4\*health ; if their base health is 9 it becomes 8 instead.
