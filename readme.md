@@ -4,15 +4,15 @@
 
 ## How to use:
 
-First, export all food values of the mods you want to modify using the "printlog.zs" CT script. Copy the output from the server log to a file named ctlog.txt in this directory (you only have to do this one, and the already included ctlog.txt from my personal modpack might already be enough for you).
+First, export all food values of the mods you want to modify using the `printlog.zs` CT script. Copy the output from the server log to a file named `ctlog.txt` in this directory (you only have to do this one, and the already included `ctlog.txt` from my personal modpack might already be enough for you).
 
-Then, use the (arguably very overkill) "scriptmaker.py" Python script to define rules for food modification and export the actual CT scripts to use with the mod.
+Then, use the (arguably very overkill) `scriptmaker.py` Python script to define rules for food modification and export the actual CT scripts to use with the mod.
 
 ## Rule syntax
 
-You can add and modify rules for the food modification in the python script by creating or editing Rule objects.
+You can add and modify rules for the food modification in the python script by creating or editing `Rule` objects.
 
-The first Rule constructor argument is the name of the food item. * can be put as a wildcard at the beginning and/or end of the name.
+The first `Rule` constructor argument is the name of the food item. `*` can be used as a wildcard at the beginning and/or end of the name.
 
 All non-keyword string arguments to the rules constructors are sub-rules, which define the food value modifications.
 
@@ -22,19 +22,19 @@ Sub-rules are made of a key and a pattern, separated by a colon (":"). In the ab
 
 "s" represents saturation, "h" health (food value). The health value is in half-drumsticks. The saturation value is a coefficient the health value is multiplied by, then multiplied again by two, to obtain the actual saturation half-drumsticks (this is CraftTweaker's system, not mine, it is kept here for the sake of coherency).
 
-Health or saturation can be either directly set ("h7") or changed based on their previous value using common math operators ("h*2", "s-.2", "s/1.3").
+Health or saturation can be either directly set (`h7`) or changed based on their previous value using common math operators (`h*2`, `s-.2`, `s/1.3`).
 
 Examples:
-Rule("Baked Vegetable Medly", "h4;s.5")
+`Rule("Baked Vegetable Medly", "h4;s.5")`
     2 drumsticks of food value (health) and 2 drumstick of saturation (4 * 0.5 * 2)
     
-Rule("* Pie", "s.7", "h9:h8")
+`Rule("* Pie", "s.7", "h9:h8")`
     All pies have a saturation of 1.4*health ; if their base health is 9 it becomes 8 instead.
 
-Rule("*Cake", "s.7", "h>8:h-1;s.6"),
+`Rule("*Cake", "s.7", "h>8:h-1;s.6")`
     All cakes have a saturation of 1.4*health, then, if their health value is higher than 8, it is reduced by 1 and the saturation is dropped to 1.2*health.
 
-Rules can be tagged with the "tag" keyword argument. Rules will put their tag on food they modify, and all of the food's tags will appear in the changelog for easier traceability and debugging. You can also print food items directly, they are str-convertible.
+Rules can be tagged with the `"tag"` keyword argument. Rules will put their tag on food they modify, and all of the food's tags will appear in the changelog for easier traceability and debugging. You can also print food items directly, they are str-convertible.
 
 ## Credits
 
