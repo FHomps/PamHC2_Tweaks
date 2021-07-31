@@ -1,21 +1,21 @@
 class Food:
-    def __init__(self, name, regName, h, s):
+    def __init__(self, name, reg_name, h, s):
         self.name = name
-        self.regName = regName
+        self.reg_name = reg_name
         self.new_h = self.base_h = int(h)
         self.new_s = self.base_s = float(s)
         
-        self.ruleTags_h = [] #Food will get tagged by rules when it gets processed
-        self.ruleTags_s = []
+        self.rule_tags_h = [] #Food will get tagged by rules when it gets processed
+        self.rule_tags_s = []
     
     def __str__(self):
-        s = self.name + " (" + self.regName + ")\n"
-        if self.ruleTags_h:
-            s += str(self.base_h) + " -> " + str(self.new_h) + ' (' + str.join(', ', self.ruleTags_h) + ')\n'
+        s = self.name + " (" + self.reg_name + ")\n"
+        if self.rule_tags_h:
+            s += str(self.base_h) + " -> " + str(self.new_h) + ' (' + str.join(', ', self.rule_tags_h) + ')\n'
         else:
             s += str(self.base_h) + '\n'
-        if self.ruleTags_s:
-            s += f"{self.base_s:.2f}" + " -> " + f"{self.new_s:.2f}" + ' (' + str.join(', ', self.ruleTags_s) + ')'
+        if self.rule_tags_s:
+            s += f"{self.base_s:.2f}" + " -> " + f"{self.new_s:.2f}" + ' (' + str.join(', ', self.rule_tags_s) + ')'
         else:
             s += f"{self.base_s:.2f}"
         return s
@@ -26,37 +26,37 @@ def num(s):
 class NameParser:
     def __init__(self, pattern):
         if (pattern == '*'):
-            self.nameMode = "all"
+            self.name_mode = "all"
         elif (pattern.startswith('*')):
             if (pattern.endswith('*')):
-                self.nameMode = "in"
+                self.name_mode = "in"
                 self.name = pattern[1:-1]
             else:
-                self.nameMode = "end"
+                self.name_mode = "end"
                 self.name = pattern[1:]
         else:
             if (pattern.endswith('*')):
-                self.nameMode = "start"
+                self.name_mode = "start"
                 self.name = pattern[:-1]
             else:
-                self.nameMode = "full"
+                self.name_mode = "full"
                 self.name = pattern
     
     def check(self, name):
-        if self.nameMode == "all":
+        if self.name_mode == "all":
             return True
-        if self.nameMode == "in":
+        if self.name_mode == "in":
             return self.name in name
-        if self.nameMode == "start":
+        if self.name_mode == "start":
             return name.startswith(self.name)
-        if self.nameMode == "end":
+        if self.name_mode == "end":
             return name.endswith(self.name)
         return name == self.name
 
 class Rule:
-    def __init__(self, namePattern, *args, **kwargs):
-        self.nameParser = NameParser(namePattern)
-        self.namePattern = namePattern
+    def __init__(self, name_pattern, *args, **kwargs):
+        self.name_parser = NameParser(name_pattern)
+        self.name_pattern = name_pattern
         
         self.patterns = {}
         for subrule in args:
@@ -73,7 +73,7 @@ class Rule:
         if "tag" in kwargs.keys():
             self.tag = kwargs["tag"]
         else:
-            self.tag = namePattern
+            self.tag = name_pattern
             
         if "ex" in kwargs.keys():
             self.excludes = [parser for parser in map(NameParser, kwargs["ex"])]
@@ -113,7 +113,7 @@ class Rule:
             return num(sp)
     
     def apply(self, food):
-        if not self.nameParser.check(food.name):
+        if not self.name_parser.check(food.name):
             return False
 
         for parser in self.excludes:
@@ -148,14 +148,14 @@ class Rule:
                         modified_s = True
         
         if modified_h:
-            food.ruleTags_h.append(self.tag)
+            food.rule_tags_h.append(self.tag)
             food.new_h = round(h)
         if modified_s:
-            food.ruleTags_s.append(self.tag)
+            food.rule_tags_s.append(self.tag)
             food.new_s = s
         return modified_h or modified_s
 
-lines = [line[35:].replace('\n', '') for line in open("ctlog.txt", 'r')]
+lines = [line[line.find("[INFO] ")+7:].replace('\n', '') for line in open("ctlog.txt", 'r')]
 foods = {lines[i+1]:Food(*lines[i:i+4]) for i in range(0, len(lines), 4)}
 del lines
 
@@ -225,10 +225,10 @@ mods = set()
 with open("changelog.txt", 'w') as file:
     for f in foods.values():
         modified = False
-        mods.add(f.regName[:f.regName.find(':')])
-        if f.regName.startswith("pamhc2"):
+        mods.add(f.reg_name[:f.reg_name.find(':')])
+        if f.reg_name.startswith("pamhc2"):
             modified |= applyRules(f, pam_rules)
-        elif f.regName.startswith("minecraft"):
+        elif f.reg_name.startswith("minecraft"):
             modified |= applyRules(f, vanilla_rules)
         if f.new_h >= sol_threshold:
             sol_count += 1
@@ -239,13 +239,13 @@ print("Above", sol_threshold / 2, "drumsticks:", sol_count)
 
 def formatZS(food):
     if food.new_h != food.base_h or food.new_s != food.base_s:
-        return ("modifyFood(mod, \"" + food.regName[food.regName.rfind(':')+1:] + "\", ").ljust(64) \
+        return ("modifyFood(mod, \"" + food.reg_name[food.reg_name.rfind(':')+1:] + "\", ").ljust(64) \
              + (str(food.new_h) + ", ").ljust(4) \
              + f"{food.new_s:.2f}".rstrip('0').rstrip('.') + ");\n"
     else:
         return ""
 
-sorted_foods = sorted(foods.values(), key=lambda x : x.regName)
+sorted_foods = sorted(foods.values(), key=lambda x : x.reg_name)
 for mod in mods:
     with open("scripts/foodtweaks_" + mod + ".zs", 'w') as file:
         file.write(
@@ -263,5 +263,5 @@ var mod = "''' + mod + '''";
 '''
         )
         for food in sorted_foods:
-            if food.regName.startswith(mod + ':'):
+            if food.reg_name.startswith(mod + ':'):
                 file.write(formatZS(food))
