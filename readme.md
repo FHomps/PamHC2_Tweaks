@@ -35,7 +35,7 @@ Health or saturation can be either directly set (`"h7"`) or changed based on the
 `Rule("*Cake", "s.7", "h>8:h-1;s.6")`\
     All cakes have a saturation of 1.4\*health, then, if their health value is higher than 8, it is reduced by 1 and the saturation is dropped to 1.2\*health.
 
-Rules can be tagged with the `"tag"` keyword argument. Rules will put their tag on food they modify, and all of the food's tags will appear in the changelog for easier traceability and debugging. You can also print food items directly, they are str-convertible.
+Rules can be tagged with the `"tag"` keyword argument. Rules will put their tag on food they modify, and all of the food's tags will appear in the changelog for easier traceability and debugging. In case no tag is specified, a rule's tag will be its name argument. You can also obtain this information by printing food items directly, they are str-convertible.
 
 ## Credits
 
