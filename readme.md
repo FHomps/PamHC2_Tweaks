@@ -18,11 +18,11 @@ All non-keyword string arguments to the rules constructors are sub-rules, which 
 
 Different sub-rules within the same rule are applied successively, each using the values modified by the precedent sub-rules. However, different rules are applied starting from the BASE VALUES of the food. Subsequent rules overwrite the previous rules' modifications if they modify the same component of the food.
 
-Sub-rules are made of a key and a pattern, separated by a colon (":"). In the absence of a key, no condition is necessary to apply the pattern. Keys and patterns are made of sub-keys and sub-patterns, separated by semicolons (";"), which represent respectively different conditions to match for the pattern to be applied or different modifications made by the pattern.
+Sub-rules are made of a key and a pattern, separated by a colon. In the absence of a key, no condition is necessary to apply the pattern. Keys and patterns are made of sub-keys and sub-patterns, separated by semicolons, which represent respectively different conditions to match for the pattern to be applied or different modifications made by the pattern.
 
 "s" represents saturation, "h" health (food value). The health value is in half-drumsticks. The saturation value is a coefficient the health value is multiplied by, then multiplied again by two, to obtain the actual saturation half-drumsticks (this is CraftTweaker's system, not mine, it is kept here for the sake of coherency).
 
-Health or saturation can be either directly set (`h7`) or changed based on their previous value using common math operators (`h*2`, `s-.2`, `s/1.3`).
+Health or saturation can be either directly set (`"h7"`) or changed based on their previous value using common math operators (`"h*2"`, `"s-.2"`, `"s/1.3"`).
 
 ### Examples:
 
