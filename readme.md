@@ -26,13 +26,13 @@ Health or saturation can be either directly set (`"h7"`) or changed based on the
 
 ### Examples:
 
-`Rule("Baked Vegetable Medly", "h4;s.5")`
+`Rule("Baked Vegetable Medly", "h4;s.5")`\
     2 drumsticks of food value (health) and 2 drumstick of saturation (4 \* 0.5 \* 2)
     
-`Rule("* Pie", "s.7", "h9:h8")`
+`Rule("* Pie", "s.7", "h9:h8")`\
     All pies have a saturation of 1.4\*health ; if their base health is 9 it becomes 8 instead.
 
-`Rule("*Cake", "s.7", "h>8:h-1;s.6")`
+`Rule("*Cake", "s.7", "h>8:h-1;s.6")`\
     All cakes have a saturation of 1.4\*health, then, if their health value is higher than 8, it is reduced by 1 and the saturation is dropped to 1.2\*health.
 
 Rules can be tagged with the `"tag"` keyword argument. Rules will put their tag on food they modify, and all of the food's tags will appear in the changelog for easier traceability and debugging. You can also print food items directly, they are str-convertible.
