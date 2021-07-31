@@ -8,7 +8,7 @@ First, export all food values of the mods you want to modify using the `printlog
 
 Then, use the (arguably very overkill) `scriptmaker.py` Python script to define rules for food modification and export the actual CT scripts to use with the mod.
 
-## Rule syntax
+### Rule syntax
 
 You can add and modify rules for the food modification in the python script by creating or editing `Rule` objects.
 
@@ -24,7 +24,8 @@ Sub-rules are made of a key and a pattern, separated by a colon (":"). In the ab
 
 Health or saturation can be either directly set (`h7`) or changed based on their previous value using common math operators (`h*2`, `s-.2`, `s/1.3`).
 
-Examples:
+### Examples:
+
 `Rule("Baked Vegetable Medly", "h4;s.5")`
     2 drumsticks of food value (health) and 2 drumstick of saturation (4 * 0.5 * 2)
     
