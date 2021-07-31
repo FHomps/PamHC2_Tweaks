@@ -39,8 +39,6 @@ Rules can be tagged with the `"tag"` keyword argument. Rules will put their tag 
 
 ## Credits
 
-Original work by FHomps / Kaly, February 2021
-
-https://github.com/FHomps/PamHC2_Tweaks
-
+Original work by FHomps / Kaly, February 2021 \
+https://github.com/FHomps/PamHC2_Tweaks \
 Feel free to redistribute, modify, sell, whatever. Just don't publish bad modifications to this script in my name, it is bad enough already.
