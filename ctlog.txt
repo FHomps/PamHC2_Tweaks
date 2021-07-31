@@ -1,0 +1,2748 @@
+[13:58:27.199][DONE][CLIENT][INFO] Apple
+[13:58:27.199][DONE][CLIENT][INFO] minecraft:apple
+[13:58:27.199][DONE][CLIENT][INFO] 4
+[13:58:27.199][DONE][CLIENT][INFO] 0.3
+[13:58:27.199][DONE][CLIENT][INFO] Baked Potato
+[13:58:27.199][DONE][CLIENT][INFO] minecraft:baked_potato
+[13:58:27.199][DONE][CLIENT][INFO] 5
+[13:58:27.200][DONE][CLIENT][INFO] 0.6
+[13:58:27.200][DONE][CLIENT][INFO] Raw Beef
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:beef
+[13:58:27.200][DONE][CLIENT][INFO] 3
+[13:58:27.200][DONE][CLIENT][INFO] 0.3
+[13:58:27.200][DONE][CLIENT][INFO] Beetroot
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:beetroot
+[13:58:27.200][DONE][CLIENT][INFO] 1
+[13:58:27.200][DONE][CLIENT][INFO] 0.6
+[13:58:27.200][DONE][CLIENT][INFO] Beetroot Soup
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:beetroot_soup
+[13:58:27.200][DONE][CLIENT][INFO] 6
+[13:58:27.200][DONE][CLIENT][INFO] 0.6
+[13:58:27.200][DONE][CLIENT][INFO] Bread
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:bread
+[13:58:27.200][DONE][CLIENT][INFO] 5
+[13:58:27.200][DONE][CLIENT][INFO] 0.6
+[13:58:27.200][DONE][CLIENT][INFO] Carrot
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:carrot
+[13:58:27.200][DONE][CLIENT][INFO] 3
+[13:58:27.200][DONE][CLIENT][INFO] 0.6
+[13:58:27.200][DONE][CLIENT][INFO] Raw Chicken
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:chicken
+[13:58:27.200][DONE][CLIENT][INFO] 2
+[13:58:27.200][DONE][CLIENT][INFO] 0.3
+[13:58:27.200][DONE][CLIENT][INFO] Chorus Fruit
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:chorus_fruit
+[13:58:27.200][DONE][CLIENT][INFO] 4
+[13:58:27.200][DONE][CLIENT][INFO] 0.3
+[13:58:27.200][DONE][CLIENT][INFO] Raw Cod
+[13:58:27.200][DONE][CLIENT][INFO] minecraft:cod
+[13:58:27.200][DONE][CLIENT][INFO] 2
+[13:58:27.200][DONE][CLIENT][INFO] 0.1
+[13:58:27.201][DONE][CLIENT][INFO] Steak
+[13:58:27.201][DONE][CLIENT][INFO] minecraft:cooked_beef
+[13:58:27.201][DONE][CLIENT][INFO] 8
+[13:58:27.201][DONE][CLIENT][INFO] 0.8
+[13:58:27.201][DONE][CLIENT][INFO] Cooked Chicken
+[13:58:27.201][DONE][CLIENT][INFO] minecraft:cooked_chicken
+[13:58:27.201][DONE][CLIENT][INFO] 6
+[13:58:27.201][DONE][CLIENT][INFO] 0.6
+[13:58:27.201][DONE][CLIENT][INFO] Cooked Cod
+[13:58:27.201][DONE][CLIENT][INFO] minecraft:cooked_cod
+[13:58:27.201][DONE][CLIENT][INFO] 5
+[13:58:27.201][DONE][CLIENT][INFO] 0.6
+[13:58:27.201][DONE][CLIENT][INFO] Cooked Mutton
+[13:58:27.201][DONE][CLIENT][INFO] minecraft:cooked_mutton
+[13:58:27.201][DONE][CLIENT][INFO] 6
+[13:58:27.201][DONE][CLIENT][INFO] 0.8
+[13:58:27.201][DONE][CLIENT][INFO] Cooked Porkchop
+[13:58:27.201][DONE][CLIENT][INFO] minecraft:cooked_porkchop
+[13:58:27.201][DONE][CLIENT][INFO] 8
+[13:58:27.201][DONE][CLIENT][INFO] 0.8
+[13:58:27.202][DONE][CLIENT][INFO] Cooked Rabbit
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:cooked_rabbit
+[13:58:27.202][DONE][CLIENT][INFO] 5
+[13:58:27.202][DONE][CLIENT][INFO] 0.6
+[13:58:27.202][DONE][CLIENT][INFO] Cooked Salmon
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:cooked_salmon
+[13:58:27.202][DONE][CLIENT][INFO] 6
+[13:58:27.202][DONE][CLIENT][INFO] 0.8
+[13:58:27.202][DONE][CLIENT][INFO] Cookie
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:cookie
+[13:58:27.202][DONE][CLIENT][INFO] 2
+[13:58:27.202][DONE][CLIENT][INFO] 0.1
+[13:58:27.202][DONE][CLIENT][INFO] Dried Kelp
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:dried_kelp
+[13:58:27.202][DONE][CLIENT][INFO] 1
+[13:58:27.202][DONE][CLIENT][INFO] 0.3
+[13:58:27.202][DONE][CLIENT][INFO] Enchanted Golden Apple
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:enchanted_golden_apple
+[13:58:27.202][DONE][CLIENT][INFO] 4
+[13:58:27.202][DONE][CLIENT][INFO] 1.2
+[13:58:27.202][DONE][CLIENT][INFO] Golden Apple
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:golden_apple
+[13:58:27.202][DONE][CLIENT][INFO] 4
+[13:58:27.202][DONE][CLIENT][INFO] 1.2
+[13:58:27.202][DONE][CLIENT][INFO] Golden Carrot
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:golden_carrot
+[13:58:27.202][DONE][CLIENT][INFO] 6
+[13:58:27.202][DONE][CLIENT][INFO] 1.2
+[13:58:27.202][DONE][CLIENT][INFO] Honey Bottle
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:honey_bottle
+[13:58:27.202][DONE][CLIENT][INFO] 6
+[13:58:27.202][DONE][CLIENT][INFO] 0.1
+[13:58:27.202][DONE][CLIENT][INFO] Melon Slice
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:melon_slice
+[13:58:27.202][DONE][CLIENT][INFO] 2
+[13:58:27.202][DONE][CLIENT][INFO] 0.3
+[13:58:27.202][DONE][CLIENT][INFO] Mushroom Stew
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:mushroom_stew
+[13:58:27.202][DONE][CLIENT][INFO] 6
+[13:58:27.202][DONE][CLIENT][INFO] 0.6
+[13:58:27.202][DONE][CLIENT][INFO] Raw Mutton
+[13:58:27.202][DONE][CLIENT][INFO] minecraft:mutton
+[13:58:27.202][DONE][CLIENT][INFO] 2
+[13:58:27.202][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Poisonous Potato
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:poisonous_potato
+[13:58:27.203][DONE][CLIENT][INFO] 2
+[13:58:27.203][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Raw Porkchop
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:porkchop
+[13:58:27.203][DONE][CLIENT][INFO] 3
+[13:58:27.203][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Potato
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:potato
+[13:58:27.203][DONE][CLIENT][INFO] 1
+[13:58:27.203][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Pufferfish
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:pufferfish
+[13:58:27.203][DONE][CLIENT][INFO] 1
+[13:58:27.203][DONE][CLIENT][INFO] 0.1
+[13:58:27.203][DONE][CLIENT][INFO] Pumpkin Pie
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:pumpkin_pie
+[13:58:27.203][DONE][CLIENT][INFO] 8
+[13:58:27.203][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Raw Rabbit
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:rabbit
+[13:58:27.203][DONE][CLIENT][INFO] 3
+[13:58:27.203][DONE][CLIENT][INFO] 0.3
+[13:58:27.203][DONE][CLIENT][INFO] Rabbit Stew
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:rabbit_stew
+[13:58:27.203][DONE][CLIENT][INFO] 10
+[13:58:27.203][DONE][CLIENT][INFO] 0.6
+[13:58:27.203][DONE][CLIENT][INFO] Rotten Flesh
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:rotten_flesh
+[13:58:27.203][DONE][CLIENT][INFO] 4
+[13:58:27.203][DONE][CLIENT][INFO] 0.1
+[13:58:27.203][DONE][CLIENT][INFO] Raw Salmon
+[13:58:27.203][DONE][CLIENT][INFO] minecraft:salmon
+[13:58:27.203][DONE][CLIENT][INFO] 2
+[13:58:27.203][DONE][CLIENT][INFO] 0.1
+[13:58:27.203][DONE][CLIENT][INFO] Spider Eye
+[13:58:27.204][DONE][CLIENT][INFO] minecraft:spider_eye
+[13:58:27.204][DONE][CLIENT][INFO] 2
+[13:58:27.204][DONE][CLIENT][INFO] 0.8
+[13:58:27.204][DONE][CLIENT][INFO] Suspicious Stew
+[13:58:27.204][DONE][CLIENT][INFO] minecraft:suspicious_stew
+[13:58:27.204][DONE][CLIENT][INFO] 6
+[13:58:27.204][DONE][CLIENT][INFO] 0.6
+[13:58:27.204][DONE][CLIENT][INFO] Sweet Berries
+[13:58:27.204][DONE][CLIENT][INFO] minecraft:sweet_berries
+[13:58:27.204][DONE][CLIENT][INFO] 2
+[13:58:27.204][DONE][CLIENT][INFO] 0.1
+[13:58:27.204][DONE][CLIENT][INFO] Tropical Fish
+[13:58:27.204][DONE][CLIENT][INFO] minecraft:tropical_fish
+[13:58:27.205][DONE][CLIENT][INFO] 1
+[13:58:27.205][DONE][CLIENT][INFO] 0.1
+[13:58:27.205][DONE][CLIENT][INFO] Apple Jelly
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applejellyitem
+[13:58:27.205][DONE][CLIENT][INFO] 6
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Apple Jelly Toast
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applejellytoastitem
+[13:58:27.205][DONE][CLIENT][INFO] 12
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Apple Juice
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applejuiceitem
+[13:58:27.205][DONE][CLIENT][INFO] 9
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Apple Pie
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applepieitem
+[13:58:27.205][DONE][CLIENT][INFO] 9
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Applesauce
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applesauceitem
+[13:58:27.205][DONE][CLIENT][INFO] 10
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Apple Smoothie
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:applesmoothieitem
+[13:58:27.205][DONE][CLIENT][INFO] 11
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Apple Yogurt
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:appleyogurtitem
+[13:58:27.205][DONE][CLIENT][INFO] 7
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Bacon and Eggs
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:baconandeggsitem
+[13:58:27.205][DONE][CLIENT][INFO] 6
+[13:58:27.205][DONE][CLIENT][INFO] 1.2
+[13:58:27.205][DONE][CLIENT][INFO] Bacon Cheeseburger
+[13:58:27.205][DONE][CLIENT][INFO] pamhc2foodcore:baconcheeseburgeritem
+[13:58:27.205][DONE][CLIENT][INFO] 25
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Baked Vegetable Medly
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:bakedvegetablemedlyitem
+[13:58:27.206][DONE][CLIENT][INFO] 7
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Basic Cheeseburger
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:basiccheeseburgeritem
+[13:58:27.206][DONE][CLIENT][INFO] 17
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Basic Chicken Sandwich
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:basicchickensandwichitem
+[13:58:27.206][DONE][CLIENT][INFO] 12
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Basic Fish Sandwich
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:basicfishsandwichitem
+[13:58:27.206][DONE][CLIENT][INFO] 12
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Basic Hamburger
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:basichamburgeritem
+[13:58:27.206][DONE][CLIENT][INFO] 13
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Beef Jerky
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:beefjerkyitem
+[13:58:27.206][DONE][CLIENT][INFO] 6
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Boiled Egg
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:boiledeggitem
+[13:58:27.206][DONE][CLIENT][INFO] 3
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Buttered Baked Potato
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:butteredbakedpotatoitem
+[13:58:27.206][DONE][CLIENT][INFO] 11
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Caramel Apple
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:caramelappleitem
+[13:58:27.206][DONE][CLIENT][INFO] 9
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.206][DONE][CLIENT][INFO] Caramel Cupcake
+[13:58:27.206][DONE][CLIENT][INFO] pamhc2foodcore:caramelcupcakeitem
+[13:58:27.206][DONE][CLIENT][INFO] 2
+[13:58:27.206][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Caramel Ice Cream
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:caramelicecreamitem
+[13:58:27.207][DONE][CLIENT][INFO] 9
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Caramel
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:caramelitem
+[13:58:27.207][DONE][CLIENT][INFO] 4
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Caramel Muffin
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:caramelmuffinitem
+[13:58:27.207][DONE][CLIENT][INFO] 3
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Caramel Yogurt
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:caramelyogurtitem
+[13:58:27.207][DONE][CLIENT][INFO] 6
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Carrot Bread
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:carrotbreaditem
+[13:58:27.207][DONE][CLIENT][INFO] 7
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Carrot Cake
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:carrotcakeitem
+[13:58:27.207][DONE][CLIENT][INFO] 9
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Carrot Cupcake
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:carrotcupcakeitem
+[13:58:27.207][DONE][CLIENT][INFO] 2
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Carrot Muffin
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:carrotmuffinitem
+[13:58:27.207][DONE][CLIENT][INFO] 3
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Carrot Soup
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:carrotsoupitem
+[13:58:27.207][DONE][CLIENT][INFO] 7
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Cheese Cake
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:cheesecakeitem
+[13:58:27.207][DONE][CLIENT][INFO] 9
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Cheese
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:cheeseitem
+[13:58:27.207][DONE][CLIENT][INFO] 4
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Chicken Dinner
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:chickendinneritem
+[13:58:27.207][DONE][CLIENT][INFO] 21
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Chicken Jerky
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:chickenjerkyitem
+[13:58:27.207][DONE][CLIENT][INFO] 5
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Chicken Nugget
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:chickennuggetitem
+[13:58:27.207][DONE][CLIENT][INFO] 3
+[13:58:27.207][DONE][CLIENT][INFO] 1.2
+[13:58:27.207][DONE][CLIENT][INFO] Chicken Pot Pie
+[13:58:27.207][DONE][CLIENT][INFO] pamhc2foodcore:chickenpotpieitem
+[13:58:27.207][DONE][CLIENT][INFO] 10
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Bacon
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatebaconitem
+[13:58:27.208][DONE][CLIENT][INFO] 6
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Bar
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatebaritem
+[13:58:27.208][DONE][CLIENT][INFO] 2
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Cake
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatecakeitem
+[13:58:27.208][DONE][CLIENT][INFO] 7
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Caramel Fudge
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatecaramelfudgeitem
+[13:58:27.208][DONE][CLIENT][INFO] 7
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Cupcake
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatecupcakeitem
+[13:58:27.208][DONE][CLIENT][INFO] 2
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Donut
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatedonutitem
+[13:58:27.208][DONE][CLIENT][INFO] 9
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Ice Cream
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolateicecreamitem
+[13:58:27.208][DONE][CLIENT][INFO] 9
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Muffin
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatemuffinitem
+[13:58:27.208][DONE][CLIENT][INFO] 3
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Pudding
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolatepuddingitem
+[13:58:27.208][DONE][CLIENT][INFO] 5
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Roll
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolaterollitem
+[13:58:27.208][DONE][CLIENT][INFO] 9
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Chocolate Yogurt
+[13:58:27.208][DONE][CLIENT][INFO] pamhc2foodcore:chocolateyogurtitem
+[13:58:27.208][DONE][CLIENT][INFO] 6
+[13:58:27.208][DONE][CLIENT][INFO] 1.2
+[13:58:27.208][DONE][CLIENT][INFO] Cookies and Milk
+[13:58:27.209][DONE][CLIENT][INFO] pamhc2foodcore:cookiesandmilkitem
+[13:58:27.209][DONE][CLIENT][INFO] 5
+[13:58:27.209][DONE][CLIENT][INFO] 1.2
+[13:58:27.209][DONE][CLIENT][INFO] Cotton Candy
+[13:58:27.209][DONE][CLIENT][INFO] pamhc2foodcore:cottoncandyitem
+[13:58:27.209][DONE][CLIENT][INFO] 2
+[13:58:27.209][DONE][CLIENT][INFO] 1.2
+[13:58:27.209][DONE][CLIENT][INFO] Cracker
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:crackeritem
+[13:58:27.210][DONE][CLIENT][INFO] 5
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Donut
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:donutitem
+[13:58:27.210][DONE][CLIENT][INFO] 8
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Epic Bacon
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:epicbaconitem
+[13:58:27.210][DONE][CLIENT][INFO] 11
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fish and Chips
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fishandchipsitem
+[13:58:27.210][DONE][CLIENT][INFO] 11
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fish Jerky
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fishjerkyitem
+[13:58:27.210][DONE][CLIENT][INFO] 5
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fish Sticks
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fishsticksitem
+[13:58:27.210][DONE][CLIENT][INFO] 6
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fried Chicken
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:friedchickenitem
+[13:58:27.210][DONE][CLIENT][INFO] 7
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fried Egg
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:friedeggitem
+[13:58:27.210][DONE][CLIENT][INFO] 3
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fries
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:friesitem
+[13:58:27.210][DONE][CLIENT][INFO] 6
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fruit Crumble
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fruitcrumbleitem
+[13:58:27.210][DONE][CLIENT][INFO] 10
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fruit Punch
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fruitpunchitem
+[13:58:27.210][DONE][CLIENT][INFO] 13
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Fruit Salad
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:fruitsaladitem
+[13:58:27.210][DONE][CLIENT][INFO] 9
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Glazed Carrots
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:glazedcarrotsitem
+[13:58:27.210][DONE][CLIENT][INFO] 8
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Grilled Cheese
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:grilledcheeseitem
+[13:58:27.210][DONE][CLIENT][INFO] 13
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Beef
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundbeefitem
+[13:58:27.210][DONE][CLIENT][INFO] 4
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Chicken
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundchickenitem
+[13:58:27.210][DONE][CLIENT][INFO] 3
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Fish
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundfishitem
+[13:58:27.210][DONE][CLIENT][INFO] 3
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Mutton
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundmuttonitem
+[13:58:27.210][DONE][CLIENT][INFO] 3
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Pork
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundporkitem
+[13:58:27.210][DONE][CLIENT][INFO] 4
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Ground Rabbit
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:groundrabbititem
+[13:58:27.210][DONE][CLIENT][INFO] 3
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Gummy Bears
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:gummybearsitem
+[13:58:27.210][DONE][CLIENT][INFO] 4
+[13:58:27.210][DONE][CLIENT][INFO] 1.2
+[13:58:27.210][DONE][CLIENT][INFO] Hot Chocolate
+[13:58:27.210][DONE][CLIENT][INFO] pamhc2foodcore:hotchocolateitem
+[13:58:27.211][DONE][CLIENT][INFO] 7
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Hot Dog
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:hotdogitem
+[13:58:27.211][DONE][CLIENT][INFO] 13
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Ice Cream
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:icecreamitem
+[13:58:27.211][DONE][CLIENT][INFO] 6
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Jelly Beans
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:jellybeansitem
+[13:58:27.211][DONE][CLIENT][INFO] 4
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Jelly Donut
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:jellydonutitem
+[13:58:27.211][DONE][CLIENT][INFO] 12
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Mac n Cheese
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:macncheeseitem
+[13:58:27.211][DONE][CLIENT][INFO] 9
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Marshmellow Chicks
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:marshmellowchicksitem
+[13:58:27.211][DONE][CLIENT][INFO] 3
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Marshmellows
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:marshmellowsitem
+[13:58:27.211][DONE][CLIENT][INFO] 2
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Mashed Potatoes
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:mashedpotatoesitem
+[13:58:27.211][DONE][CLIENT][INFO] 11
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Meatloaf
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:meatloafitem
+[13:58:27.211][DONE][CLIENT][INFO] 10
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Melon Jelly
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:melonjellyitem
+[13:58:27.211][DONE][CLIENT][INFO] 4
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.211][DONE][CLIENT][INFO] Melon Jelly Toast
+[13:58:27.211][DONE][CLIENT][INFO] pamhc2foodcore:melonjellytoastitem
+[13:58:27.211][DONE][CLIENT][INFO] 10
+[13:58:27.211][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Melon Juice
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:melonjuiceitem
+[13:58:27.212][DONE][CLIENT][INFO] 5
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Melon Smoothie
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:melonsmoothieitem
+[13:58:27.212][DONE][CLIENT][INFO] 7
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Mutton Jerky
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:muttonjerkyitem
+[13:58:27.212][DONE][CLIENT][INFO] 5
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Noodle Soup
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:noodlesoupitem
+[13:58:27.212][DONE][CLIENT][INFO] 10
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] P8 Juice
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:p8juiceitem
+[13:58:27.212][DONE][CLIENT][INFO] 7
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pickled Beets
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:pickledbeetsitem
+[13:58:27.212][DONE][CLIENT][INFO] 7
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pork Jerky
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:porkjerkyitem
+[13:58:27.212][DONE][CLIENT][INFO] 6
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Potato Chips
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:potatochipsitem
+[13:58:27.212][DONE][CLIENT][INFO] 6
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Potato Soup
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:potatosoupitem
+[13:58:27.212][DONE][CLIENT][INFO] 7
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pot Roast
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:potroastitem
+[13:58:27.212][DONE][CLIENT][INFO] 8
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pumpkin Bread
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:pumpkinbreaditem
+[13:58:27.212][DONE][CLIENT][INFO] 7
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pumpkin Cheese Cake
+[13:58:27.212][DONE][CLIENT][INFO] pamhc2foodcore:pumpkincheesecakeitem
+[13:58:27.212][DONE][CLIENT][INFO] 12
+[13:58:27.212][DONE][CLIENT][INFO] 1.2
+[13:58:27.212][DONE][CLIENT][INFO] Pumpkin Cupcake
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:pumpkincupcakeitem
+[13:58:27.213][DONE][CLIENT][INFO] 2
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Pumpkin Muffin
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:pumpkinmuffinitem
+[13:58:27.213][DONE][CLIENT][INFO] 3
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Pumpkin Soup
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:pumpkinsoupitem
+[13:58:27.213][DONE][CLIENT][INFO] 7
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Pumpkin Yogurt
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:pumpkinyogurtitem
+[13:58:27.213][DONE][CLIENT][INFO] 7
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Rabbit Jerky
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:rabbitjerkyitem
+[13:58:27.213][DONE][CLIENT][INFO] 5
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Roasted Sunflower Seeds
+[13:58:27.213][DONE][CLIENT][INFO] pamhc2foodcore:roastedsunflowerseedsitem
+[13:58:27.213][DONE][CLIENT][INFO] 5
+[13:58:27.213][DONE][CLIENT][INFO] 1.2
+[13:58:27.213][DONE][CLIENT][INFO] Scrambled Egg
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:scrambledeggitem
+[13:58:27.214][DONE][CLIENT][INFO] 7
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Smores
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:smoresitem
+[13:58:27.214][DONE][CLIENT][INFO] 10
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Soft Pretzel
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:softpretzelitem
+[13:58:27.214][DONE][CLIENT][INFO] 6
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Stew
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:stewitem
+[13:58:27.214][DONE][CLIENT][INFO] 15
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Stock
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:stockitem
+[13:58:27.214][DONE][CLIENT][INFO] 5
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sunflower Seeds
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sunflowerseedsitem
+[13:58:27.214][DONE][CLIENT][INFO] 1
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Jelly
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberryjellyitem
+[13:58:27.214][DONE][CLIENT][INFO] 3
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Toast
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberryjellytoastitem
+[13:58:27.214][DONE][CLIENT][INFO] 9
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Juice
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberryjuiceitem
+[13:58:27.214][DONE][CLIENT][INFO] 3
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Pie
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberrypieitem
+[13:58:27.214][DONE][CLIENT][INFO] 7
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Smoothie
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberrysmoothieitem
+[13:58:27.214][DONE][CLIENT][INFO] 5
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Sweet Berry Yogurt
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:sweetberryyogurtitem
+[13:58:27.214][DONE][CLIENT][INFO] 5
+[13:58:27.214][DONE][CLIENT][INFO] 1.2
+[13:58:27.214][DONE][CLIENT][INFO] Toast
+[13:58:27.214][DONE][CLIENT][INFO] pamhc2foodcore:toastitem
+[13:58:27.215][DONE][CLIENT][INFO] 5
+[13:58:27.215][DONE][CLIENT][INFO] 1.2
+[13:58:27.215][DONE][CLIENT][INFO] Trail Mix
+[13:58:27.215][DONE][CLIENT][INFO] pamhc2foodcore:trailmixitem
+[13:58:27.215][DONE][CLIENT][INFO] 8
+[13:58:27.215][DONE][CLIENT][INFO] 1.2
+[13:58:27.215][DONE][CLIENT][INFO] Yogurt
+[13:58:27.215][DONE][CLIENT][INFO] pamhc2foodcore:yogurtitem
+[13:58:27.215][DONE][CLIENT][INFO] 3
+[13:58:27.215][DONE][CLIENT][INFO] 1.2
+[13:58:27.215][DONE][CLIENT][INFO] Almond Butter
+[13:58:27.215][DONE][CLIENT][INFO] pamhc2foodextended:almondbutteritem
+[13:58:27.216][DONE][CLIENT][INFO] 2
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Anchovy Pepperoni Pizza
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:anchovypepperonipizzaitem
+[13:58:27.216][DONE][CLIENT][INFO] 17
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apple Jelly Sandwich
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:applejellysandwichitem
+[13:58:27.216][DONE][CLIENT][INFO] 14
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Jelly
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotjellyitem
+[13:58:27.216][DONE][CLIENT][INFO] 6
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Jelly Sandwich
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotjellysandwichitem
+[13:58:27.216][DONE][CLIENT][INFO] 14
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Jelly Toast
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotjellytoastitem
+[13:58:27.216][DONE][CLIENT][INFO] 12
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Juice
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotjuiceitem
+[13:58:27.216][DONE][CLIENT][INFO] 9
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Pie
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotpieitem
+[13:58:27.216][DONE][CLIENT][INFO] 9
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Smoothie
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotsmoothieitem
+[13:58:27.216][DONE][CLIENT][INFO] 11
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Apricot Yogurt
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:apricotyogurtitem
+[13:58:27.216][DONE][CLIENT][INFO] 7
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Banana Jelly
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:bananajellyitem
+[13:58:27.216][DONE][CLIENT][INFO] 6
+[13:58:27.216][DONE][CLIENT][INFO] 1.2
+[13:58:27.216][DONE][CLIENT][INFO] Banana Jelly Sandwich
+[13:58:27.216][DONE][CLIENT][INFO] pamhc2foodextended:bananajellysandwichitem
+[13:58:27.217][DONE][CLIENT][INFO] 14
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Banana Jelly Toast
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bananajellytoastitem
+[13:58:27.217][DONE][CLIENT][INFO] 12
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Banana Juice
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bananajuiceitem
+[13:58:27.217][DONE][CLIENT][INFO] 9
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Banana Pie
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bananapieitem
+[13:58:27.217][DONE][CLIENT][INFO] 9
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Banana Smoothie
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bananasmoothieitem
+[13:58:27.217][DONE][CLIENT][INFO] 11
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Banana Yogurt
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bananayogurtitem
+[13:58:27.217][DONE][CLIENT][INFO] 7
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] BBQ Chicken Pizza
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bbqchickenpizzaitem
+[13:58:27.217][DONE][CLIENT][INFO] 11
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] BBQ Potato Chips
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bbqpotatochipsitem
+[13:58:27.217][DONE][CLIENT][INFO] 9
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] BBQ Sauce
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:bbqsauceitem
+[13:58:27.217][DONE][CLIENT][INFO] 5
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Beans and Rice
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:beansandriceitem
+[13:58:27.217][DONE][CLIENT][INFO] 9
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Blackberry Jelly
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:blackberryjellyitem
+[13:58:27.217][DONE][CLIENT][INFO] 4
+[13:58:27.217][DONE][CLIENT][INFO] 1.2
+[13:58:27.217][DONE][CLIENT][INFO] Blackberry Jelly Sandwich
+[13:58:27.217][DONE][CLIENT][INFO] pamhc2foodextended:blackberryjellysandwichitem
+[13:58:27.217][DONE][CLIENT][INFO] 12
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blackberry Jelly Toast
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blackberryjellytoastitem
+[13:58:27.218][DONE][CLIENT][INFO] 10
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blackberry Juice
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blackberryjuiceitem
+[13:58:27.218][DONE][CLIENT][INFO] 5
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blackberry Pie
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blackberrypieitem
+[13:58:27.218][DONE][CLIENT][INFO] 7
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blackberry Smoothie
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blackberrysmoothieitem
+[13:58:27.218][DONE][CLIENT][INFO] 7
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blackberry Yogurt
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blackberryyogurtitem
+[13:58:27.218][DONE][CLIENT][INFO] 5
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Jelly
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberryjellyitem
+[13:58:27.218][DONE][CLIENT][INFO] 4
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Jelly Sandwich
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberryjellysandwichitem
+[13:58:27.218][DONE][CLIENT][INFO] 12
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Jelly Toast
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberryjellytoastitem
+[13:58:27.218][DONE][CLIENT][INFO] 10
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Juice
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberryjuiceitem
+[13:58:27.218][DONE][CLIENT][INFO] 5
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Pie
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberrypieitem
+[13:58:27.218][DONE][CLIENT][INFO] 7
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.218][DONE][CLIENT][INFO] Blueberry Smoothie
+[13:58:27.218][DONE][CLIENT][INFO] pamhc2foodextended:blueberrysmoothieitem
+[13:58:27.218][DONE][CLIENT][INFO] 7
+[13:58:27.218][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Blueberry Yogurt
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:blueberryyogurtitem
+[13:58:27.219][DONE][CLIENT][INFO] 5
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Jelly
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitjellyitem
+[13:58:27.219][DONE][CLIENT][INFO] 6
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Jelly Sandwich
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitjellysandwichitem
+[13:58:27.219][DONE][CLIENT][INFO] 14
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Jelly Toast
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitjellytoastitem
+[13:58:27.219][DONE][CLIENT][INFO] 12
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Juice
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitjuiceitem
+[13:58:27.219][DONE][CLIENT][INFO] 9
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Pie
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitpieitem
+[13:58:27.219][DONE][CLIENT][INFO] 9
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Smoothie
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruitsmoothieitem
+[13:58:27.219][DONE][CLIENT][INFO] 11
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Breadfruit Yogurt
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:breadfruityogurtitem
+[13:58:27.219][DONE][CLIENT][INFO] 7
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Cactus Fruit Jelly
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitjellyitem
+[13:58:27.219][DONE][CLIENT][INFO] 4
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Cactus Fruit Jelly Sandwich
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitjellysandwichitem
+[13:58:27.219][DONE][CLIENT][INFO] 12
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Cactus Fruit Jelly Toast
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitjellytoastitem
+[13:58:27.219][DONE][CLIENT][INFO] 10
+[13:58:27.219][DONE][CLIENT][INFO] 1.2
+[13:58:27.219][DONE][CLIENT][INFO] Cactus Fruit Juice
+[13:58:27.219][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitjuiceitem
+[13:58:27.220][DONE][CLIENT][INFO] 5
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Cactus Fruit Pie
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitpieitem
+[13:58:27.220][DONE][CLIENT][INFO] 7
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Cactus Fruit Smoothie
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruitsmoothieitem
+[13:58:27.220][DONE][CLIENT][INFO] 7
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Cactus Fruit Yogurt
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:cactusfruityogurtitem
+[13:58:27.220][DONE][CLIENT][INFO] 5
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candied Ginger
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candiedgingeritem
+[13:58:27.220][DONE][CLIENT][INFO] 3
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candied Lemon
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candiedlemonitem
+[13:58:27.220][DONE][CLIENT][INFO] 3
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candied Pecans
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candiedpecansitem
+[13:58:27.220][DONE][CLIENT][INFO] 3
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candied Sweet Potatoes
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candiedsweetpotatoesitem
+[13:58:27.220][DONE][CLIENT][INFO] 3
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candied Walnuts
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candiedwalnutsitem
+[13:58:27.220][DONE][CLIENT][INFO] 3
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candleberry Jelly
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candleberryjellyitem
+[13:58:27.220][DONE][CLIENT][INFO] 4
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candleberry Jelly Sandwich
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candleberryjellysandwichitem
+[13:58:27.220][DONE][CLIENT][INFO] 12
+[13:58:27.220][DONE][CLIENT][INFO] 1.2
+[13:58:27.220][DONE][CLIENT][INFO] Candleberry Jelly Toast
+[13:58:27.220][DONE][CLIENT][INFO] pamhc2foodextended:candleberryjellytoastitem
+[13:58:27.221][DONE][CLIENT][INFO] 10
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Candleberry Juice
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:candleberryjuiceitem
+[13:58:27.221][DONE][CLIENT][INFO] 5
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Candleberry Pie
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:candleberrypieitem
+[13:58:27.221][DONE][CLIENT][INFO] 7
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Candleberry Smoothie
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:candleberrysmoothieitem
+[13:58:27.221][DONE][CLIENT][INFO] 7
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Candleberry Yogurt
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:candleberryyogurtitem
+[13:58:27.221][DONE][CLIENT][INFO] 5
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Jelly
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupejellyitem
+[13:58:27.221][DONE][CLIENT][INFO] 4
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Jelly Sandwich
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupejellysandwichitem
+[13:58:27.221][DONE][CLIENT][INFO] 12
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Jelly Toast
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupejellytoastitem
+[13:58:27.221][DONE][CLIENT][INFO] 10
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Juice
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupejuiceitem
+[13:58:27.221][DONE][CLIENT][INFO] 5
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Pie
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupepieitem
+[13:58:27.221][DONE][CLIENT][INFO] 7
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Smoothie
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupesmoothieitem
+[13:58:27.221][DONE][CLIENT][INFO] 7
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cantaloupe Yogurt
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cantaloupeyogurtitem
+[13:58:27.221][DONE][CLIENT][INFO] 5
+[13:58:27.221][DONE][CLIENT][INFO] 1.2
+[13:58:27.221][DONE][CLIENT][INFO] Cashew Butter
+[13:58:27.221][DONE][CLIENT][INFO] pamhc2foodextended:cashewbutteritem
+[13:58:27.222][DONE][CLIENT][INFO] 2
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cheddar and Sour Cream Potato Chips
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cheddarandsourcreampotatochipsitem
+[13:58:27.222][DONE][CLIENT][INFO] 11
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Jelly
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherryjellyitem
+[13:58:27.222][DONE][CLIENT][INFO] 6
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Jelly Sandwich
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherryjellysandwichitem
+[13:58:27.222][DONE][CLIENT][INFO] 14
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Jelly Toast
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherryjellytoastitem
+[13:58:27.222][DONE][CLIENT][INFO] 12
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Juice
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherryjuiceitem
+[13:58:27.222][DONE][CLIENT][INFO] 9
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Pie
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherrypieitem
+[13:58:27.222][DONE][CLIENT][INFO] 9
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Smoothie
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherrysmoothieitem
+[13:58:27.222][DONE][CLIENT][INFO] 11
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Soda
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherrysodaitem
+[13:58:27.222][DONE][CLIENT][INFO] 8
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Cherry Yogurt
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:cherryyogurtitem
+[13:58:27.222][DONE][CLIENT][INFO] 7
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Chesnut Butter
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:chestnutbutteritem
+[13:58:27.222][DONE][CLIENT][INFO] 2
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Chili Chocolate
+[13:58:27.222][DONE][CLIENT][INFO] pamhc2foodextended:chilichocolateitem
+[13:58:27.222][DONE][CLIENT][INFO] 6
+[13:58:27.222][DONE][CLIENT][INFO] 1.2
+[13:58:27.222][DONE][CLIENT][INFO] Chimichanga
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chimichangaitem
+[13:58:27.223][DONE][CLIENT][INFO] 29
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chips and Dip
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chipsanddipitem
+[13:58:27.223][DONE][CLIENT][INFO] 10
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chips and Salsa
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chipsandsalsaitem
+[13:58:27.223][DONE][CLIENT][INFO] 17
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chocolate Cherry
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chocolatecherryitem
+[13:58:27.223][DONE][CLIENT][INFO] 7
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chocolate Coconut Bar
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chocolatecoconutbaritem
+[13:58:27.223][DONE][CLIENT][INFO] 7
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chocolate Orange
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chocolateorangeitem
+[13:58:27.223][DONE][CLIENT][INFO] 7
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chocolate Peanut Bar
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chocolatepeanutbaritem
+[13:58:27.223][DONE][CLIENT][INFO] 4
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Chocolate Strawberry
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:chocolatestrawberryitem
+[13:58:27.223][DONE][CLIENT][INFO] 5
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Cola Soda
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:colasodaitem
+[13:58:27.223][DONE][CLIENT][INFO] 5
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Cooked Tofabbit
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofabbititem
+[13:58:27.223][DONE][CLIENT][INFO] 6
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Cooked Tofacon
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofaconitem
+[13:58:27.223][DONE][CLIENT][INFO] 6
+[13:58:27.223][DONE][CLIENT][INFO] 1.2
+[13:58:27.223][DONE][CLIENT][INFO] Cooked Tofeak
+[13:58:27.223][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofeakitem
+[13:58:27.223][DONE][CLIENT][INFO] 6
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cooked Toficken
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofickenitem
+[13:58:27.224][DONE][CLIENT][INFO] 6
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cooked Tofish
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofishitem
+[13:58:27.224][DONE][CLIENT][INFO] 6
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cooked Tofutton
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cookedtofuttonitem
+[13:58:27.224][DONE][CLIENT][INFO] 6
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Corn Chips
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cornchipsitem
+[13:58:27.224][DONE][CLIENT][INFO] 6
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cornmeal
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cornmealitem
+[13:58:27.224][DONE][CLIENT][INFO] 2
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Jelly
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberryjellyitem
+[13:58:27.224][DONE][CLIENT][INFO] 4
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Jelly Sandwich
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberryjellysandwichitem
+[13:58:27.224][DONE][CLIENT][INFO] 12
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Jelly Toast
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberryjellytoastitem
+[13:58:27.224][DONE][CLIENT][INFO] 10
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Juice
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberryjuiceitem
+[13:58:27.224][DONE][CLIENT][INFO] 5
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Pie
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberrypieitem
+[13:58:27.224][DONE][CLIENT][INFO] 7
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Smoothie
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberrysmoothieitem
+[13:58:27.224][DONE][CLIENT][INFO] 7
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.224][DONE][CLIENT][INFO] Cranberry Yogurt
+[13:58:27.224][DONE][CLIENT][INFO] pamhc2foodextended:cranberryyogurtitem
+[13:58:27.224][DONE][CLIENT][INFO] 5
+[13:58:27.224][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Crisp Rice Puff Bars
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:crispyricepuffbarsitem
+[13:58:27.225][DONE][CLIENT][INFO] 4
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Jelly
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datejellyitem
+[13:58:27.225][DONE][CLIENT][INFO] 6
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Jelly Sandwich
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datejellysandwichitem
+[13:58:27.225][DONE][CLIENT][INFO] 14
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Jelly Toast
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datejellytoastitem
+[13:58:27.225][DONE][CLIENT][INFO] 12
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Juice
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datejuiceitem
+[13:58:27.225][DONE][CLIENT][INFO] 9
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Pie
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datepieitem
+[13:58:27.225][DONE][CLIENT][INFO] 9
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Smoothie
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:datesmoothieitem
+[13:58:27.225][DONE][CLIENT][INFO] 11
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Date Yogurt
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:dateyogurtitem
+[13:58:27.225][DONE][CLIENT][INFO] 7
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Deluxe Nachoes
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:deluxenachoesitem
+[13:58:27.225][DONE][CLIENT][INFO] 30
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Dragonfruit Jelly
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitjellyitem
+[13:58:27.225][DONE][CLIENT][INFO] 6
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Dragonfruit Jelly Sandwich
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitjellysandwichitem
+[13:58:27.225][DONE][CLIENT][INFO] 14
+[13:58:27.225][DONE][CLIENT][INFO] 1.2
+[13:58:27.225][DONE][CLIENT][INFO] Dragonfruit Jelly Toast
+[13:58:27.225][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitjellytoastitem
+[13:58:27.226][DONE][CLIENT][INFO] 12
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Dragonfruit Juice
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitjuiceitem
+[13:58:27.226][DONE][CLIENT][INFO] 9
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Dragonfruit Pie
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitpieitem
+[13:58:27.226][DONE][CLIENT][INFO] 9
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Dragonfruit Smoothie
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruitsmoothieitem
+[13:58:27.226][DONE][CLIENT][INFO] 11
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Dragonfruit Yogurt
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:dragonfruityogurtitem
+[13:58:27.226][DONE][CLIENT][INFO] 7
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Jelly
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianjellyitem
+[13:58:27.226][DONE][CLIENT][INFO] 3
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Jelly Sandwich
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianjellysandwichitem
+[13:58:27.226][DONE][CLIENT][INFO] 11
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Jelly Toast
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianjellytoastitem
+[13:58:27.226][DONE][CLIENT][INFO] 9
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Juice
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianjuiceitem
+[13:58:27.226][DONE][CLIENT][INFO] 3
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Pie
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianpieitem
+[13:58:27.226][DONE][CLIENT][INFO] 6
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Smoothie
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:duriansmoothieitem
+[13:58:27.226][DONE][CLIENT][INFO] 5
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Durian Yogurt
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:durianyogurtitem
+[13:58:27.226][DONE][CLIENT][INFO] 4
+[13:58:27.226][DONE][CLIENT][INFO] 1.2
+[13:58:27.226][DONE][CLIENT][INFO] Edible Root
+[13:58:27.226][DONE][CLIENT][INFO] pamhc2foodextended:ediblerootitem
+[13:58:27.226][DONE][CLIENT][INFO] 2
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Jelly
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberryjellyitem
+[13:58:27.227][DONE][CLIENT][INFO] 4
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Jelly Sandwich
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberryjellysandwichitem
+[13:58:27.227][DONE][CLIENT][INFO] 12
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Jelly Toast
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberryjellytoastitem
+[13:58:27.227][DONE][CLIENT][INFO] 10
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Juice
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberryjuiceitem
+[13:58:27.227][DONE][CLIENT][INFO] 5
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Pie
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberrypieitem
+[13:58:27.227][DONE][CLIENT][INFO] 7
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Smoothie
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberrysmoothieitem
+[13:58:27.227][DONE][CLIENT][INFO] 7
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Elderberry Yogurt
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:elderberryyogurtitem
+[13:58:27.227][DONE][CLIENT][INFO] 5
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Enchilada
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:enchiladaitem
+[13:58:27.227][DONE][CLIENT][INFO] 20
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Energy Drink
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:energydrinkitem
+[13:58:27.227][DONE][CLIENT][INFO] 6
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Fiesta Corn Salad
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:fiestacornsaladitem
+[13:58:27.227][DONE][CLIENT][INFO] 12
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Fig Jelly
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:figjellyitem
+[13:58:27.227][DONE][CLIENT][INFO] 6
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.227][DONE][CLIENT][INFO] Fig Jelly Sandwich
+[13:58:27.227][DONE][CLIENT][INFO] pamhc2foodextended:figjellysandwichitem
+[13:58:27.227][DONE][CLIENT][INFO] 14
+[13:58:27.227][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fig Jelly Toast
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:figjellytoastitem
+[13:58:27.228][DONE][CLIENT][INFO] 12
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fig Juice
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:figjuiceitem
+[13:58:27.228][DONE][CLIENT][INFO] 9
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fig Pie
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:figpieitem
+[13:58:27.228][DONE][CLIENT][INFO] 9
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fig Smoothie
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:figsmoothieitem
+[13:58:27.228][DONE][CLIENT][INFO] 11
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fig Yogurt
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:figyogurtitem
+[13:58:27.228][DONE][CLIENT][INFO] 7
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Firm Tofu
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:firmtofuitem
+[13:58:27.228][DONE][CLIENT][INFO] 3
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Fish Taco
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:fishtacoitem
+[13:58:27.228][DONE][CLIENT][INFO] 14
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Garlic Bread
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:garlicbreaditem
+[13:58:27.228][DONE][CLIENT][INFO] 10
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Garlic Chicken
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:garlicchickenitem
+[13:58:27.228][DONE][CLIENT][INFO] 8
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Garlic Mashed Potatoes
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:garlicmashedpotatoesitem
+[13:58:27.228][DONE][CLIENT][INFO] 12
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Ginger Soda
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:gingersodaitem
+[13:58:27.228][DONE][CLIENT][INFO] 5
+[13:58:27.228][DONE][CLIENT][INFO] 1.2
+[13:58:27.228][DONE][CLIENT][INFO] Gooseberry Jelly
+[13:58:27.228][DONE][CLIENT][INFO] pamhc2foodextended:gooseberryjellyitem
+[13:58:27.228][DONE][CLIENT][INFO] 4
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Jelly Sandwich
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberryjellysandwichitem
+[13:58:27.229][DONE][CLIENT][INFO] 12
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Jelly Toast
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberryjellytoastitem
+[13:58:27.229][DONE][CLIENT][INFO] 10
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Juice
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberryjuiceitem
+[13:58:27.229][DONE][CLIENT][INFO] 5
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Pie
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberrypieitem
+[13:58:27.229][DONE][CLIENT][INFO] 7
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Smoothie
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberrysmoothieitem
+[13:58:27.229][DONE][CLIENT][INFO] 7
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Gooseberry Yogurt
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:gooseberryyogurtitem
+[13:58:27.229][DONE][CLIENT][INFO] 5
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Grapefruit Jelly
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitjellyitem
+[13:58:27.229][DONE][CLIENT][INFO] 6
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Grapefruit Jelly Sandwich
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitjellysandwichitem
+[13:58:27.229][DONE][CLIENT][INFO] 14
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Grapefruit Jelly Toast
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitjellytoastitem
+[13:58:27.229][DONE][CLIENT][INFO] 12
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Grapefruit Juice
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitjuiceitem
+[13:58:27.229][DONE][CLIENT][INFO] 9
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.229][DONE][CLIENT][INFO] Grapefruit Pie
+[13:58:27.229][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitpieitem
+[13:58:27.229][DONE][CLIENT][INFO] 9
+[13:58:27.229][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grapefruit Smoothie
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitsmoothieitem
+[13:58:27.230][DONE][CLIENT][INFO] 11
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grapefruit Soda
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapefruitsodaitem
+[13:58:27.230][DONE][CLIENT][INFO] 8
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grapefruit Yogurt
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapefruityogurtitem
+[13:58:27.230][DONE][CLIENT][INFO] 7
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Jelly
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapejellyitem
+[13:58:27.230][DONE][CLIENT][INFO] 4
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Jelly Sandwich
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapejellysandwichitem
+[13:58:27.230][DONE][CLIENT][INFO] 12
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Jelly Toast
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapejellytoastitem
+[13:58:27.230][DONE][CLIENT][INFO] 10
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Juice
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapejuiceitem
+[13:58:27.230][DONE][CLIENT][INFO] 5
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Pie
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapepieitem
+[13:58:27.230][DONE][CLIENT][INFO] 7
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Smoothie
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapesmoothieitem
+[13:58:27.230][DONE][CLIENT][INFO] 7
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.230][DONE][CLIENT][INFO] Grape Soda
+[13:58:27.230][DONE][CLIENT][INFO] pamhc2foodextended:grapesodaitem
+[13:58:27.230][DONE][CLIENT][INFO] 6
+[13:58:27.230][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Grape Yogurt
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:grapeyogurtitem
+[13:58:27.231][DONE][CLIENT][INFO] 5
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Jelly
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapejellyitem
+[13:58:27.231][DONE][CLIENT][INFO] 4
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Jelly Sandwich
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapejellysandwichitem
+[13:58:27.231][DONE][CLIENT][INFO] 12
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Jelly Toast
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapejellytoastitem
+[13:58:27.231][DONE][CLIENT][INFO] 10
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Juice
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapejuiceitem
+[13:58:27.231][DONE][CLIENT][INFO] 5
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Pie
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapepieitem
+[13:58:27.231][DONE][CLIENT][INFO] 7
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Smoothie
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapesmoothieitem
+[13:58:27.231][DONE][CLIENT][INFO] 7
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Green Grape Yogurt
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:greengrapeyogurtitem
+[13:58:27.231][DONE][CLIENT][INFO] 5
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Guava Jelly
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:guavajellyitem
+[13:58:27.231][DONE][CLIENT][INFO] 6
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Guava Jelly Sandwich
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:guavajellysandwichitem
+[13:58:27.231][DONE][CLIENT][INFO] 14
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.231][DONE][CLIENT][INFO] Guava Jelly Toast
+[13:58:27.231][DONE][CLIENT][INFO] pamhc2foodextended:guavajellytoastitem
+[13:58:27.231][DONE][CLIENT][INFO] 12
+[13:58:27.231][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Guava Juice
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:guavajuiceitem
+[13:58:27.232][DONE][CLIENT][INFO] 9
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Guava Pie
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:guavapieitem
+[13:58:27.232][DONE][CLIENT][INFO] 9
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Guava Smoothie
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:guavasmoothieitem
+[13:58:27.232][DONE][CLIENT][INFO] 11
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Guava Yogurt
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:guavayogurtitem
+[13:58:27.232][DONE][CLIENT][INFO] 7
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Ham and Pinapple Pizza
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:hamandpineapplepizzaitem
+[13:58:27.232][DONE][CLIENT][INFO] 17
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Hazelnut Butter
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:hazelnutbutteritem
+[13:58:27.232][DONE][CLIENT][INFO] 2
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Hazelnut Chocolate
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:hazelnutchocolateitem
+[13:58:27.232][DONE][CLIENT][INFO] 4
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Huckleberry Jelly
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:huckleberryjellyitem
+[13:58:27.232][DONE][CLIENT][INFO] 4
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Huckleberry Jelly Sandwich
+[13:58:27.232][DONE][CLIENT][INFO] pamhc2foodextended:huckleberryjellysandwichitem
+[13:58:27.232][DONE][CLIENT][INFO] 12
+[13:58:27.232][DONE][CLIENT][INFO] 1.2
+[13:58:27.232][DONE][CLIENT][INFO] Huckleberry Jelly Toast
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:huckleberryjellytoastitem
+[13:58:27.233][DONE][CLIENT][INFO] 10
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Huckleberry Juice
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:huckleberryjuiceitem
+[13:58:27.233][DONE][CLIENT][INFO] 5
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Huckleberry Pie
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:huckleberrypieitem
+[13:58:27.233][DONE][CLIENT][INFO] 7
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Huckleberry Smoothie
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:huckleberrysmoothieitem
+[13:58:27.233][DONE][CLIENT][INFO] 7
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Huckleberry Yogurt
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:huckleberryyogurtitem
+[13:58:27.233][DONE][CLIENT][INFO] 5
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Jelly
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitjellyitem
+[13:58:27.233][DONE][CLIENT][INFO] 6
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Jelly Sandwich
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitjellysandwichitem
+[13:58:27.233][DONE][CLIENT][INFO] 14
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Jelly Toast
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitjellytoastitem
+[13:58:27.233][DONE][CLIENT][INFO] 12
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Juice
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitjuiceitem
+[13:58:27.233][DONE][CLIENT][INFO] 9
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Pie
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitpieitem
+[13:58:27.233][DONE][CLIENT][INFO] 9
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Smoothie
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruitsmoothieitem
+[13:58:27.233][DONE][CLIENT][INFO] 11
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Jackfruit Yogurt
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:jackfruityogurtitem
+[13:58:27.233][DONE][CLIENT][INFO] 7
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Juniperberry Jelly
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:juniperberryjellyitem
+[13:58:27.233][DONE][CLIENT][INFO] 4
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Juniperberry Jelly Sandwich
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:juniperberryjellysandwichitem
+[13:58:27.233][DONE][CLIENT][INFO] 12
+[13:58:27.233][DONE][CLIENT][INFO] 1.2
+[13:58:27.233][DONE][CLIENT][INFO] Juniperberry Jelly Toast
+[13:58:27.233][DONE][CLIENT][INFO] pamhc2foodextended:juniperberryjellytoastitem
+[13:58:27.233][DONE][CLIENT][INFO] 10
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Juniperberry Juice
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:juniperberryjuiceitem
+[13:58:27.234][DONE][CLIENT][INFO] 5
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Juniperberry Pie
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:juniperberrypieitem
+[13:58:27.234][DONE][CLIENT][INFO] 7
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Juniperberry Smoothie
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:juniperberrysmoothieitem
+[13:58:27.234][DONE][CLIENT][INFO] 7
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Juniperberry Yogurt
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:juniperberryyogurtitem
+[13:58:27.234][DONE][CLIENT][INFO] 5
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Jelly
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwijellyitem
+[13:58:27.234][DONE][CLIENT][INFO] 4
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Jelly Sandwich
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwijellysandwichitem
+[13:58:27.234][DONE][CLIENT][INFO] 12
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Jelly Toast
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwijellytoastitem
+[13:58:27.234][DONE][CLIENT][INFO] 10
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Juice
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwijuiceitem
+[13:58:27.234][DONE][CLIENT][INFO] 5
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Pie
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwipieitem
+[13:58:27.234][DONE][CLIENT][INFO] 7
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Smoothie
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwismoothieitem
+[13:58:27.234][DONE][CLIENT][INFO] 7
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Kiwi Yogurt
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:kiwiyogurtitem
+[13:58:27.234][DONE][CLIENT][INFO] 5
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.234][DONE][CLIENT][INFO] Lemon Jelly
+[13:58:27.234][DONE][CLIENT][INFO] pamhc2foodextended:lemonjellyitem
+[13:58:27.234][DONE][CLIENT][INFO] 3
+[13:58:27.234][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Jelly Sandwich
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonjellysandwichitem
+[13:58:27.235][DONE][CLIENT][INFO] 11
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Jelly Toast
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonjellytoastitem
+[13:58:27.235][DONE][CLIENT][INFO] 9
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Juice
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonjuiceitem
+[13:58:27.235][DONE][CLIENT][INFO] 3
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Lime Soda
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonlimesodaitem
+[13:58:27.235][DONE][CLIENT][INFO] 6
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Pie
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonpieitem
+[13:58:27.235][DONE][CLIENT][INFO] 6
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Smoothie
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonsmoothieitem
+[13:58:27.235][DONE][CLIENT][INFO] 5
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lemon Yogurt
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:lemonyogurtitem
+[13:58:27.235][DONE][CLIENT][INFO] 4
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Jelly
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limejellyitem
+[13:58:27.235][DONE][CLIENT][INFO] 3
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Jelly Sandwich
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limejellysandwichitem
+[13:58:27.235][DONE][CLIENT][INFO] 11
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Jelly Toast
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limejellytoastitem
+[13:58:27.235][DONE][CLIENT][INFO] 9
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Juice
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limejuiceitem
+[13:58:27.235][DONE][CLIENT][INFO] 3
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Pie
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limepieitem
+[13:58:27.235][DONE][CLIENT][INFO] 6
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Smoothie
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limesmoothieitem
+[13:58:27.235][DONE][CLIENT][INFO] 5
+[13:58:27.235][DONE][CLIENT][INFO] 1.2
+[13:58:27.235][DONE][CLIENT][INFO] Lime Yogurt
+[13:58:27.235][DONE][CLIENT][INFO] pamhc2foodextended:limeyogurtitem
+[13:58:27.235][DONE][CLIENT][INFO] 4
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Jelly
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheejellyitem
+[13:58:27.236][DONE][CLIENT][INFO] 6
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Jelly Sandwich
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheejellysandwichitem
+[13:58:27.236][DONE][CLIENT][INFO] 14
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Jelly Toast
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheejellytoastitem
+[13:58:27.236][DONE][CLIENT][INFO] 12
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Juice
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheejuiceitem
+[13:58:27.236][DONE][CLIENT][INFO] 9
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Pie
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheepieitem
+[13:58:27.236][DONE][CLIENT][INFO] 9
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Smoothie
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheesmoothieitem
+[13:58:27.236][DONE][CLIENT][INFO] 11
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Lychee Yogurt
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:lycheeyogurtitem
+[13:58:27.236][DONE][CLIENT][INFO] 7
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Mango Jelly
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:mangojellyitem
+[13:58:27.236][DONE][CLIENT][INFO] 6
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Mango Jelly Sandwich
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:mangojellysandwichitem
+[13:58:27.236][DONE][CLIENT][INFO] 14
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Mango Jelly Toast
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:mangojellytoastitem
+[13:58:27.236][DONE][CLIENT][INFO] 12
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Mango Juice
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:mangojuiceitem
+[13:58:27.236][DONE][CLIENT][INFO] 9
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.236][DONE][CLIENT][INFO] Mango Pie
+[13:58:27.236][DONE][CLIENT][INFO] pamhc2foodextended:mangopieitem
+[13:58:27.236][DONE][CLIENT][INFO] 9
+[13:58:27.236][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mango Smoothie
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mangosmoothieitem
+[13:58:27.237][DONE][CLIENT][INFO] 11
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mango Yogurt
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mangoyogurtitem
+[13:58:27.237][DONE][CLIENT][INFO] 7
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Maple Candied Bacon
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:maplecandiedbaconitem
+[13:58:27.237][DONE][CLIENT][INFO] 5
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Marzipan
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:marzipanitem
+[13:58:27.237][DONE][CLIENT][INFO] 8
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Meat Feast Pizza
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:meatfeastpizzaitem
+[13:58:27.237][DONE][CLIENT][INFO] 27
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Jelly
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberryjellyitem
+[13:58:27.237][DONE][CLIENT][INFO] 4
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Jelly Sandwich
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberryjellysandwichitem
+[13:58:27.237][DONE][CLIENT][INFO] 12
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Jelly Toast
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberryjellytoastitem
+[13:58:27.237][DONE][CLIENT][INFO] 10
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Juice
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberryjuiceitem
+[13:58:27.237][DONE][CLIENT][INFO] 5
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Pie
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberrypieitem
+[13:58:27.237][DONE][CLIENT][INFO] 7
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Smoothie
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberrysmoothieitem
+[13:58:27.237][DONE][CLIENT][INFO] 7
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Mulberry Yogurt
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:mulberryyogurtitem
+[13:58:27.237][DONE][CLIENT][INFO] 5
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Nachoes
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:nachoesitem
+[13:58:27.237][DONE][CLIENT][INFO] 13
+[13:58:27.237][DONE][CLIENT][INFO] 1.2
+[13:58:27.237][DONE][CLIENT][INFO] Orange Jelly
+[13:58:27.237][DONE][CLIENT][INFO] pamhc2foodextended:orangejellyitem
+[13:58:27.238][DONE][CLIENT][INFO] 6
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Jelly Sandwich
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangejellysandwichitem
+[13:58:27.238][DONE][CLIENT][INFO] 14
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Jelly Toast
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangejellytoastitem
+[13:58:27.238][DONE][CLIENT][INFO] 12
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Juice
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangejuiceitem
+[13:58:27.238][DONE][CLIENT][INFO] 9
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Pie
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangepieitem
+[13:58:27.238][DONE][CLIENT][INFO] 9
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Smoothie
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangesmoothieitem
+[13:58:27.238][DONE][CLIENT][INFO] 11
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Soda
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangesodaitem
+[13:58:27.238][DONE][CLIENT][INFO] 8
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Orange Yogurt
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:orangeyogurtitem
+[13:58:27.238][DONE][CLIENT][INFO] 7
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Jelly
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayajellyitem
+[13:58:27.238][DONE][CLIENT][INFO] 6
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Jelly Sandwich
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayajellysandwichitem
+[13:58:27.238][DONE][CLIENT][INFO] 14
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Jelly Toast
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayajellytoastitem
+[13:58:27.238][DONE][CLIENT][INFO] 12
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Juice
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayajuiceitem
+[13:58:27.238][DONE][CLIENT][INFO] 9
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Pie
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayapieitem
+[13:58:27.238][DONE][CLIENT][INFO] 9
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Smoothie
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayasmoothieitem
+[13:58:27.238][DONE][CLIENT][INFO] 11
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Papaya Yogurt
+[13:58:27.238][DONE][CLIENT][INFO] pamhc2foodextended:papayayogurtitem
+[13:58:27.238][DONE][CLIENT][INFO] 7
+[13:58:27.238][DONE][CLIENT][INFO] 1.2
+[13:58:27.238][DONE][CLIENT][INFO] Passonfruit Jelly
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitjellyitem
+[13:58:27.239][DONE][CLIENT][INFO] 6
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Jelly Sandwich
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitjellysandwichitem
+[13:58:27.239][DONE][CLIENT][INFO] 14
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Jelly Toast
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitjellytoastitem
+[13:58:27.239][DONE][CLIENT][INFO] 12
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Juice
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitjuiceitem
+[13:58:27.239][DONE][CLIENT][INFO] 9
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Pie
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitpieitem
+[13:58:27.239][DONE][CLIENT][INFO] 9
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Smoothie
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruitsmoothieitem
+[13:58:27.239][DONE][CLIENT][INFO] 11
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Passonfruit Yogurt
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:passionfruityogurtitem
+[13:58:27.239][DONE][CLIENT][INFO] 7
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Pawpaw Jelly
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:pawpawjellyitem
+[13:58:27.239][DONE][CLIENT][INFO] 6
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Pawpaw Jelly Sandwich
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:pawpawjellysandwichitem
+[13:58:27.239][DONE][CLIENT][INFO] 14
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Pawpaw Jelly Toast
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:pawpawjellytoastitem
+[13:58:27.239][DONE][CLIENT][INFO] 12
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Pawpaw Juice
+[13:58:27.239][DONE][CLIENT][INFO] pamhc2foodextended:pawpawjuiceitem
+[13:58:27.239][DONE][CLIENT][INFO] 9
+[13:58:27.239][DONE][CLIENT][INFO] 1.2
+[13:58:27.239][DONE][CLIENT][INFO] Pawpaw Pie
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:pawpawpieitem
+[13:58:27.240][DONE][CLIENT][INFO] 9
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Pawpaw Smoothie
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:pawpawsmoothieitem
+[13:58:27.240][DONE][CLIENT][INFO] 11
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Pawpaw Yogurt
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:pawpawyogurtitem
+[13:58:27.240][DONE][CLIENT][INFO] 7
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Jelly
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachjellyitem
+[13:58:27.240][DONE][CLIENT][INFO] 6
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Jelly Sandwich
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachjellysandwichitem
+[13:58:27.240][DONE][CLIENT][INFO] 14
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Jelly Toast
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachjellytoastitem
+[13:58:27.240][DONE][CLIENT][INFO] 12
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Juice
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachjuiceitem
+[13:58:27.240][DONE][CLIENT][INFO] 9
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Pie
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachpieitem
+[13:58:27.240][DONE][CLIENT][INFO] 9
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Smoothie
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachsmoothieitem
+[13:58:27.240][DONE][CLIENT][INFO] 11
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peach Yogurt
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peachyogurtitem
+[13:58:27.240][DONE][CLIENT][INFO] 7
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peanut Butter Cup
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peanutbuttercupitem
+[13:58:27.240][DONE][CLIENT][INFO] 5
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Peanut Butter
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:peanutbutteritem
+[13:58:27.240][DONE][CLIENT][INFO] 2
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.240][DONE][CLIENT][INFO] Pear Jelly
+[13:58:27.240][DONE][CLIENT][INFO] pamhc2foodextended:pearjellyitem
+[13:58:27.240][DONE][CLIENT][INFO] 6
+[13:58:27.240][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Jelly Sandwich
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearjellysandwichitem
+[13:58:27.241][DONE][CLIENT][INFO] 14
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Jelly Toast
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearjellytoastitem
+[13:58:27.241][DONE][CLIENT][INFO] 12
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Juice
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearjuiceitem
+[13:58:27.241][DONE][CLIENT][INFO] 9
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Pie
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearpieitem
+[13:58:27.241][DONE][CLIENT][INFO] 9
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Smoothie
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearsmoothieitem
+[13:58:27.241][DONE][CLIENT][INFO] 11
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pear Yogurt
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pearyogurtitem
+[13:58:27.241][DONE][CLIENT][INFO] 7
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pecan Butter
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pecanbutteritem
+[13:58:27.241][DONE][CLIENT][INFO] 2
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Peppermint
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:peppermintitem
+[13:58:27.241][DONE][CLIENT][INFO] 3
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pepperoni
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pepperoniitem
+[13:58:27.241][DONE][CLIENT][INFO] 5
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Pepperoni Pizza
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:pepperonipizzaitem
+[13:58:27.241][DONE][CLIENT][INFO] 16
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Persimmon Jelly
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:persimmonjellyitem
+[13:58:27.241][DONE][CLIENT][INFO] 6
+[13:58:27.241][DONE][CLIENT][INFO] 1.2
+[13:58:27.241][DONE][CLIENT][INFO] Persimmon Jelly Sandwich
+[13:58:27.241][DONE][CLIENT][INFO] pamhc2foodextended:persimmonjellysandwichitem
+[13:58:27.241][DONE][CLIENT][INFO] 14
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Persimmon Jelly Toast
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:persimmonjellytoastitem
+[13:58:27.242][DONE][CLIENT][INFO] 12
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Persimmon Juice
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:persimmonjuiceitem
+[13:58:27.242][DONE][CLIENT][INFO] 9
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Persimmon Pie
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:persimmonpieitem
+[13:58:27.242][DONE][CLIENT][INFO] 9
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Persimmon Smoothie
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:persimmonsmoothieitem
+[13:58:27.242][DONE][CLIENT][INFO] 11
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Persimmon Yogurt
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:persimmonyogurtitem
+[13:58:27.242][DONE][CLIENT][INFO] 7
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Jelly
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplejellyitem
+[13:58:27.242][DONE][CLIENT][INFO] 4
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Jelly Sandwich
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplejellysandwichitem
+[13:58:27.242][DONE][CLIENT][INFO] 12
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Jelly Toast
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplejellytoastitem
+[13:58:27.242][DONE][CLIENT][INFO] 10
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Juice
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplejuiceitem
+[13:58:27.242][DONE][CLIENT][INFO] 5
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Pie
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplepieitem
+[13:58:27.242][DONE][CLIENT][INFO] 7
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.242][DONE][CLIENT][INFO] Pineapple Smoothie
+[13:58:27.242][DONE][CLIENT][INFO] pamhc2foodextended:pineapplesmoothieitem
+[13:58:27.242][DONE][CLIENT][INFO] 7
+[13:58:27.242][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Pineapple Yogurt
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:pineappleyogurtitem
+[13:58:27.243][DONE][CLIENT][INFO] 5
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Pistachio Butter
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:pistachiobutteritem
+[13:58:27.243][DONE][CLIENT][INFO] 2
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Pizza Slice
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:pizzasliceitem
+[13:58:27.243][DONE][CLIENT][INFO] 2
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Jelly
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumjellyitem
+[13:58:27.243][DONE][CLIENT][INFO] 6
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Jelly Sandwich
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumjellysandwichitem
+[13:58:27.243][DONE][CLIENT][INFO] 14
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Jelly Toast
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumjellytoastitem
+[13:58:27.243][DONE][CLIENT][INFO] 12
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Juice
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumjuiceitem
+[13:58:27.243][DONE][CLIENT][INFO] 9
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Pie
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumpieitem
+[13:58:27.243][DONE][CLIENT][INFO] 9
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Smoothie
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumsmoothieitem
+[13:58:27.243][DONE][CLIENT][INFO] 11
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Plum Yogurt
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:plumyogurtitem
+[13:58:27.243][DONE][CLIENT][INFO] 7
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Pomegranate Jelly
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatejellyitem
+[13:58:27.243][DONE][CLIENT][INFO] 6
+[13:58:27.243][DONE][CLIENT][INFO] 1.2
+[13:58:27.243][DONE][CLIENT][INFO] Pomegranate Jelly Sandwich
+[13:58:27.243][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatejellysandwichitem
+[13:58:27.243][DONE][CLIENT][INFO] 14
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pomegranate Jelly Toast
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatejellytoastitem
+[13:58:27.244][DONE][CLIENT][INFO] 12
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pomegranate Juice
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatejuiceitem
+[13:58:27.244][DONE][CLIENT][INFO] 9
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pomegranate Pie
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatepieitem
+[13:58:27.244][DONE][CLIENT][INFO] 9
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pomegranate Smoothie
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pomegranatesmoothieitem
+[13:58:27.244][DONE][CLIENT][INFO] 11
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pomegranate Yogurt
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pomegranateyogurtitem
+[13:58:27.244][DONE][CLIENT][INFO] 7
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Popcorn
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:popcornitem
+[13:58:27.244][DONE][CLIENT][INFO] 7
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Pralines
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:pralinesitem
+[13:58:27.244][DONE][CLIENT][INFO] 3
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Quesadilla
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:quesadillaitem
+[13:58:27.244][DONE][CLIENT][INFO] 9
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Rambutan Jelly
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:rambutanjellyitem
+[13:58:27.244][DONE][CLIENT][INFO] 6
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Rambutan Jelly Sandwich
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:rambutanjellysandwichitem
+[13:58:27.244][DONE][CLIENT][INFO] 14
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Rambutan Jelly Toast
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:rambutanjellytoastitem
+[13:58:27.244][DONE][CLIENT][INFO] 12
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Rambutan Juice
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:rambutanjuiceitem
+[13:58:27.244][DONE][CLIENT][INFO] 9
+[13:58:27.244][DONE][CLIENT][INFO] 1.2
+[13:58:27.244][DONE][CLIENT][INFO] Rambutan Pie
+[13:58:27.244][DONE][CLIENT][INFO] pamhc2foodextended:rambutanpieitem
+[13:58:27.244][DONE][CLIENT][INFO] 9
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Rambutan Smoothie
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rambutansmoothieitem
+[13:58:27.245][DONE][CLIENT][INFO] 11
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Rambutan Yogurt
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rambutanyogurtitem
+[13:58:27.245][DONE][CLIENT][INFO] 7
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Jelly
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberryjellyitem
+[13:58:27.245][DONE][CLIENT][INFO] 4
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Jelly Sandwich
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberryjellysandwichitem
+[13:58:27.245][DONE][CLIENT][INFO] 12
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Jelly Toast
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberryjellytoastitem
+[13:58:27.245][DONE][CLIENT][INFO] 10
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Juice
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberryjuiceitem
+[13:58:27.245][DONE][CLIENT][INFO] 5
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Pie
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberrypieitem
+[13:58:27.245][DONE][CLIENT][INFO] 7
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Smoothie
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberrysmoothieitem
+[13:58:27.245][DONE][CLIENT][INFO] 7
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raspberry Yogurt
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:raspberryyogurtitem
+[13:58:27.245][DONE][CLIENT][INFO] 5
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raw Tofabbit
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rawtofabbititem
+[13:58:27.245][DONE][CLIENT][INFO] 3
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raw Tofacon
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rawtofaconitem
+[13:58:27.245][DONE][CLIENT][INFO] 3
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raw Tofeak
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rawtofeakitem
+[13:58:27.245][DONE][CLIENT][INFO] 3
+[13:58:27.245][DONE][CLIENT][INFO] 1.2
+[13:58:27.245][DONE][CLIENT][INFO] Raw Toficken
+[13:58:27.245][DONE][CLIENT][INFO] pamhc2foodextended:rawtofickenitem
+[13:58:27.245][DONE][CLIENT][INFO] 3
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Raw Tofish
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:rawtofishitem
+[13:58:27.246][DONE][CLIENT][INFO] 3
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Raw Tofutton
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:rawtofuttonitem
+[13:58:27.246][DONE][CLIENT][INFO] 3
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Refried Beans
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:refriedbeansitem
+[13:58:27.246][DONE][CLIENT][INFO] 6
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Rootbeer Float
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:rootbeerfloatitem
+[13:58:27.246][DONE][CLIENT][INFO] 10
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Rootbeer Soda
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:rootbeersodaitem
+[13:58:27.246][DONE][CLIENT][INFO] 6
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Salsa
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:salsaitem
+[13:58:27.246][DONE][CLIENT][INFO] 8
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Sausage
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:sausageitem
+[13:58:27.246][DONE][CLIENT][INFO] 6
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Sesame Snaps
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:sesamesnapsitem
+[13:58:27.246][DONE][CLIENT][INFO] 3
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Silken Tofu
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:silkentofuitem
+[13:58:27.246][DONE][CLIENT][INFO] 2
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Sour Cream and Onion Potato Chips
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:sourcreamandonionpotatochipsitem
+[13:58:27.246][DONE][CLIENT][INFO] 8
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Soursop Jelly
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:soursopjellyitem
+[13:58:27.246][DONE][CLIENT][INFO] 6
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Soursop Jelly Sandwich
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:soursopjellysandwichitem
+[13:58:27.246][DONE][CLIENT][INFO] 14
+[13:58:27.246][DONE][CLIENT][INFO] 1.2
+[13:58:27.246][DONE][CLIENT][INFO] Soursop Jelly Toast
+[13:58:27.246][DONE][CLIENT][INFO] pamhc2foodextended:soursopjellytoastitem
+[13:58:27.246][DONE][CLIENT][INFO] 12
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Soursop Juice
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:soursopjuiceitem
+[13:58:27.247][DONE][CLIENT][INFO] 9
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Soursop Pie
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:soursoppieitem
+[13:58:27.247][DONE][CLIENT][INFO] 9
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Soursop Smoothie
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:soursopsmoothieitem
+[13:58:27.247][DONE][CLIENT][INFO] 11
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Soursop Yogurt
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:soursopyogurtitem
+[13:58:27.247][DONE][CLIENT][INFO] 7
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Soy Milk
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:soymilkitem
+[13:58:27.247][DONE][CLIENT][INFO] 2
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Spagetti and Meatballs
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:spagettiandmeatballsitem
+[13:58:27.247][DONE][CLIENT][INFO] 12
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Spagetti
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:spagettiitem
+[13:58:27.247][DONE][CLIENT][INFO] 9
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Spagetti Dinner
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:spaghettidinneritem
+[13:58:27.247][DONE][CLIENT][INFO] 25
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Jelly
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitjellyitem
+[13:58:27.247][DONE][CLIENT][INFO] 6
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Jelly Sandwich
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitjellysandwichitem
+[13:58:27.247][DONE][CLIENT][INFO] 14
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Jelly Toast
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitjellytoastitem
+[13:58:27.247][DONE][CLIENT][INFO] 12
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Juice
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitjuiceitem
+[13:58:27.247][DONE][CLIENT][INFO] 9
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Pie
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitpieitem
+[13:58:27.247][DONE][CLIENT][INFO] 9
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Smoothie
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruitsmoothieitem
+[13:58:27.247][DONE][CLIENT][INFO] 11
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Starfruit Yogurt
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:starfruityogurtitem
+[13:58:27.247][DONE][CLIENT][INFO] 7
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Strawberry Jelly
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:strawberryjellyitem
+[13:58:27.247][DONE][CLIENT][INFO] 4
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Strawberry Jelly Sandwich
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:strawberryjellysandwichitem
+[13:58:27.247][DONE][CLIENT][INFO] 12
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Strawberry Jelly Toast
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:strawberryjellytoastitem
+[13:58:27.247][DONE][CLIENT][INFO] 10
+[13:58:27.247][DONE][CLIENT][INFO] 1.2
+[13:58:27.247][DONE][CLIENT][INFO] Strawberry Juice
+[13:58:27.247][DONE][CLIENT][INFO] pamhc2foodextended:strawberryjuiceitem
+[13:58:27.248][DONE][CLIENT][INFO] 5
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Strawberry Pie
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:strawberrypieitem
+[13:58:27.248][DONE][CLIENT][INFO] 7
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Strawberry Smoothie
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:strawberrysmoothieitem
+[13:58:27.248][DONE][CLIENT][INFO] 7
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Strawberry Soda
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:strawberrysodaitem
+[13:58:27.248][DONE][CLIENT][INFO] 4
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Strawberry Yogurt
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:strawberryyogurtitem
+[13:58:27.248][DONE][CLIENT][INFO] 5
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Stuffed Chili Peppers
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:stuffedchilipeppersitem
+[13:58:27.248][DONE][CLIENT][INFO] 13
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Sunflower Seeds Butter
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:sunflowerseedsbutteritem
+[13:58:27.248][DONE][CLIENT][INFO] 2
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Supreme Pizza
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:supremepizzaitem
+[13:58:27.248][DONE][CLIENT][INFO] 21
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Taco
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:tacoitem
+[13:58:27.248][DONE][CLIENT][INFO] 15
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Tamarind Jelly
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:tamarindjellyitem
+[13:58:27.248][DONE][CLIENT][INFO] 6
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Tamarind Jelly Sandwich
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:tamarindjellysandwichitem
+[13:58:27.248][DONE][CLIENT][INFO] 14
+[13:58:27.248][DONE][CLIENT][INFO] 1.2
+[13:58:27.248][DONE][CLIENT][INFO] Tamarind Jelly Toast
+[13:58:27.248][DONE][CLIENT][INFO] pamhc2foodextended:tamarindjellytoastitem
+[13:58:27.249][DONE][CLIENT][INFO] 12
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Tamarind Juice
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tamarindjuiceitem
+[13:58:27.249][DONE][CLIENT][INFO] 9
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Tamarind Pie
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tamarindpieitem
+[13:58:27.249][DONE][CLIENT][INFO] 9
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Tamarind Smoothie
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tamarindsmoothieitem
+[13:58:27.249][DONE][CLIENT][INFO] 11
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Tamarind Yogurt
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tamarindyogurtitem
+[13:58:27.249][DONE][CLIENT][INFO] 7
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Theatre Box
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:theatreboxitem
+[13:58:27.249][DONE][CLIENT][INFO] 15
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Torilla Chips
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tortillachipsitem
+[13:58:27.249][DONE][CLIENT][INFO] 8
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Tortilla
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:tortillaitem
+[13:58:27.249][DONE][CLIENT][INFO] 4
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.249][DONE][CLIENT][INFO] Walnut Butter
+[13:58:27.249][DONE][CLIENT][INFO] pamhc2foodextended:walnutbutteritem
+[13:58:27.249][DONE][CLIENT][INFO] 2
+[13:58:27.249][DONE][CLIENT][INFO] 1.2
+[13:58:27.250][DONE][CLIENT][INFO] Arrowroot
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:arrowrootitem
+[13:58:27.250][DONE][CLIENT][INFO] 1
+[13:58:27.250][DONE][CLIENT][INFO] 0.3
+[13:58:27.250][DONE][CLIENT][INFO] Artichoke
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:artichokeitem
+[13:58:27.250][DONE][CLIENT][INFO] 3
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Asparagus
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:asparagusitem
+[13:58:27.250][DONE][CLIENT][INFO] 3
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Arrowroot
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedarrowrootitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Cassava
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedcassavaitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Jicama
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedjicamaitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Parsnip
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedparsnipitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Rutabaga
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedrutabagaitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Sweet Potato
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedsweetpotatoitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Taro
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedtaroitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Turnip
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedturnipitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Baked Water Chestnut
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bakedwaterchestnutitem
+[13:58:27.250][DONE][CLIENT][INFO] 5
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Bellpepper
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:bellpepperitem
+[13:58:27.250][DONE][CLIENT][INFO] 3
+[13:58:27.250][DONE][CLIENT][INFO] 0.6
+[13:58:27.250][DONE][CLIENT][INFO] Blackberry
+[13:58:27.250][DONE][CLIENT][INFO] pamhc2crops:blackberryitem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.1
+[13:58:27.251][DONE][CLIENT][INFO] Blueberry
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:blueberryitem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.1
+[13:58:27.251][DONE][CLIENT][INFO] Broccoli
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:broccoliitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Brusselsprout
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:brusselsproutitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Cabbage
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cabbageitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Cactusfruit
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cactusfruititem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.3
+[13:58:27.251][DONE][CLIENT][INFO] Candleberry
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:candleberryitem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.1
+[13:58:27.251][DONE][CLIENT][INFO] Cantaloupe
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cantaloupeitem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.3
+[13:58:27.251][DONE][CLIENT][INFO] Cassava
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cassavaitem
+[13:58:27.251][DONE][CLIENT][INFO] 1
+[13:58:27.251][DONE][CLIENT][INFO] 0.3
+[13:58:27.251][DONE][CLIENT][INFO] Cauliflower
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:caulifloweritem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Celery
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:celeryitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Chilipepper
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:chilipepperitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.251][DONE][CLIENT][INFO] 0.6
+[13:58:27.251][DONE][CLIENT][INFO] Cranberry
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cranberryitem
+[13:58:27.251][DONE][CLIENT][INFO] 2
+[13:58:27.251][DONE][CLIENT][INFO] 0.1
+[13:58:27.251][DONE][CLIENT][INFO] Cucumber
+[13:58:27.251][DONE][CLIENT][INFO] pamhc2crops:cucumberitem
+[13:58:27.251][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.252][DONE][CLIENT][INFO] Eggplant
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:eggplantitem
+[13:58:27.252][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.252][DONE][CLIENT][INFO] Elderberry
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:elderberryitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.1
+[13:58:27.252][DONE][CLIENT][INFO] Garlic
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:garlicitem
+[13:58:27.252][DONE][CLIENT][INFO] 1
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Grape
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:grapeitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Green Grape
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:greengrapeitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Hot Coffee
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:hotcoffeeitem
+[13:58:27.252][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.252][DONE][CLIENT][INFO] Hot Tea
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:hotteaitem
+[13:58:27.252][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.252][DONE][CLIENT][INFO] Huckleberry
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:huckleberryitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.1
+[13:58:27.252][DONE][CLIENT][INFO] Jicama
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:jicamaitem
+[13:58:27.252][DONE][CLIENT][INFO] 1
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Juniperberry
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:juniperberryitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.1
+[13:58:27.252][DONE][CLIENT][INFO] Kale
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:kaleitem
+[13:58:27.252][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.252][DONE][CLIENT][INFO] Kiwi
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:kiwiitem
+[13:58:27.252][DONE][CLIENT][INFO] 2
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Kohlrabi
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:kohlrabiitem
+[13:58:27.252][DONE][CLIENT][INFO] 1
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Leek
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:leekitem
+[13:58:27.252][DONE][CLIENT][INFO] 1
+[13:58:27.252][DONE][CLIENT][INFO] 0.3
+[13:58:27.252][DONE][CLIENT][INFO] Lettuce
+[13:58:27.252][DONE][CLIENT][INFO] pamhc2crops:lettuceitem
+[13:58:27.252][DONE][CLIENT][INFO] 3
+[13:58:27.252][DONE][CLIENT][INFO] 0.6
+[13:58:27.253][DONE][CLIENT][INFO] Mulberry
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:mulberryitem
+[13:58:27.253][DONE][CLIENT][INFO] 2
+[13:58:27.253][DONE][CLIENT][INFO] 0.1
+[13:58:27.253][DONE][CLIENT][INFO] Okra
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:okraitem
+[13:58:27.253][DONE][CLIENT][INFO] 3
+[13:58:27.253][DONE][CLIENT][INFO] 0.6
+[13:58:27.253][DONE][CLIENT][INFO] Onion
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:onionitem
+[13:58:27.253][DONE][CLIENT][INFO] 1
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Parsnip
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:parsnipitem
+[13:58:27.253][DONE][CLIENT][INFO] 1
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Peanut
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:peanutitem
+[13:58:27.253][DONE][CLIENT][INFO] 1
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Peas
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:peasitem
+[13:58:27.253][DONE][CLIENT][INFO] 3
+[13:58:27.253][DONE][CLIENT][INFO] 0.6
+[13:58:27.253][DONE][CLIENT][INFO] Pineapple
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:pineappleitem
+[13:58:27.253][DONE][CLIENT][INFO] 2
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Radish
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:radishitem
+[13:58:27.253][DONE][CLIENT][INFO] 1
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Raspberry
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:raspberryitem
+[13:58:27.253][DONE][CLIENT][INFO] 2
+[13:58:27.253][DONE][CLIENT][INFO] 0.1
+[13:58:27.253][DONE][CLIENT][INFO] Rhubarb
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:rhubarbitem
+[13:58:27.253][DONE][CLIENT][INFO] 1
+[13:58:27.253][DONE][CLIENT][INFO] 0.3
+[13:58:27.253][DONE][CLIENT][INFO] Roasted Garlic
+[13:58:27.253][DONE][CLIENT][INFO] pamhc2crops:roastedgarlicitem
+[13:58:27.253][DONE][CLIENT][INFO] 5
+[13:58:27.253][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Kohlrabi
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedkohlrabiitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Leek
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedleekitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Mushroom
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedmushroomitem
+[13:58:27.254][DONE][CLIENT][INFO] 3
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Onion
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedonionitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Peanut
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedpeanutitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Radish
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedradishitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Rhubarb
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedrhubarbitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Roasted Scallion
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:roastedscallionitem
+[13:58:27.254][DONE][CLIENT][INFO] 5
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Rutabaga
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:rutabagaitem
+[13:58:27.254][DONE][CLIENT][INFO] 1
+[13:58:27.254][DONE][CLIENT][INFO] 0.3
+[13:58:27.254][DONE][CLIENT][INFO] Scallion
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:scallionitem
+[13:58:27.254][DONE][CLIENT][INFO] 1
+[13:58:27.254][DONE][CLIENT][INFO] 0.3
+[13:58:27.254][DONE][CLIENT][INFO] Spiceleaf
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:spiceleafitem
+[13:58:27.254][DONE][CLIENT][INFO] 1
+[13:58:27.254][DONE][CLIENT][INFO] 0.1
+[13:58:27.254][DONE][CLIENT][INFO] Spinach
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:spinachitem
+[13:58:27.254][DONE][CLIENT][INFO] 3
+[13:58:27.254][DONE][CLIENT][INFO] 0.6
+[13:58:27.254][DONE][CLIENT][INFO] Strawberry
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:strawberryitem
+[13:58:27.254][DONE][CLIENT][INFO] 2
+[13:58:27.254][DONE][CLIENT][INFO] 0.1
+[13:58:27.254][DONE][CLIENT][INFO] Sweet Potato
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:sweetpotatoitem
+[13:58:27.254][DONE][CLIENT][INFO] 1
+[13:58:27.254][DONE][CLIENT][INFO] 0.3
+[13:58:27.254][DONE][CLIENT][INFO] Taro
+[13:58:27.254][DONE][CLIENT][INFO] pamhc2crops:taroitem
+[13:58:27.254][DONE][CLIENT][INFO] 1
+[13:58:27.255][DONE][CLIENT][INFO] 0.3
+[13:58:27.255][DONE][CLIENT][INFO] Tomatillo
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:tomatilloitem
+[13:58:27.255][DONE][CLIENT][INFO] 3
+[13:58:27.255][DONE][CLIENT][INFO] 0.6
+[13:58:27.255][DONE][CLIENT][INFO] Tomato
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:tomatoitem
+[13:58:27.255][DONE][CLIENT][INFO] 3
+[13:58:27.255][DONE][CLIENT][INFO] 0.6
+[13:58:27.255][DONE][CLIENT][INFO] Turnip
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:turnipitem
+[13:58:27.255][DONE][CLIENT][INFO] 1
+[13:58:27.255][DONE][CLIENT][INFO] 0.3
+[13:58:27.255][DONE][CLIENT][INFO] Waterchestnut
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:waterchestnutitem
+[13:58:27.255][DONE][CLIENT][INFO] 1
+[13:58:27.255][DONE][CLIENT][INFO] 0.3
+[13:58:27.255][DONE][CLIENT][INFO] White Mushroom
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:whitemushroomitem
+[13:58:27.255][DONE][CLIENT][INFO] 1
+[13:58:27.255][DONE][CLIENT][INFO] 0.3
+[13:58:27.255][DONE][CLIENT][INFO] Winter Squash
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:wintersquashitem
+[13:58:27.255][DONE][CLIENT][INFO] 3
+[13:58:27.255][DONE][CLIENT][INFO] 0.6
+[13:58:27.255][DONE][CLIENT][INFO] Zucchini
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2crops:zucchiniitem
+[13:58:27.255][DONE][CLIENT][INFO] 3
+[13:58:27.255][DONE][CLIENT][INFO] 0.6
+[13:58:27.255][DONE][CLIENT][INFO] Almond
+[13:58:27.255][DONE][CLIENT][INFO] pamhc2trees:almonditem
+[13:58:27.255][DONE][CLIENT][INFO] 1
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Apricot
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:apricotitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Avocado
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:avocadoitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Banana
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:bananaitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Breadfruit
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:breadfruititem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Candlenut
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:candlenutitem
+[13:58:27.256][DONE][CLIENT][INFO] 1
+[13:58:27.256][DONE][CLIENT][INFO] 0.1
+[13:58:27.256][DONE][CLIENT][INFO] Cashew
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:cashewitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Cherry
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:cherryitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Chestnut
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:chestnutitem
+[13:58:27.256][DONE][CLIENT][INFO] 1
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Coconut
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:coconutitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Date
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:dateitem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Dragonfruit
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:dragonfruititem
+[13:58:27.256][DONE][CLIENT][INFO] 4
+[13:58:27.256][DONE][CLIENT][INFO] 0.3
+[13:58:27.256][DONE][CLIENT][INFO] Durian
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:durianitem
+[13:58:27.256][DONE][CLIENT][INFO] 1
+[13:58:27.256][DONE][CLIENT][INFO] 0.1
+[13:58:27.256][DONE][CLIENT][INFO] Fig
+[13:58:27.256][DONE][CLIENT][INFO] pamhc2trees:figitem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Gooseberry
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:gooseberryitem
+[13:58:27.257][DONE][CLIENT][INFO] 2
+[13:58:27.257][DONE][CLIENT][INFO] 0.1
+[13:58:27.257][DONE][CLIENT][INFO] Grapefruit
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:grapefruititem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Guava
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:guavaitem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Hazelnut
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:hazelnutitem
+[13:58:27.257][DONE][CLIENT][INFO] 1
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Jackfruit
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:jackfruititem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Lemon
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:lemonitem
+[13:58:27.257][DONE][CLIENT][INFO] 1
+[13:58:27.257][DONE][CLIENT][INFO] 0.1
+[13:58:27.257][DONE][CLIENT][INFO] Lime
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:limeitem
+[13:58:27.257][DONE][CLIENT][INFO] 1
+[13:58:27.257][DONE][CLIENT][INFO] 0.1
+[13:58:27.257][DONE][CLIENT][INFO] Lychee
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:lycheeitem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Mango
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:mangoitem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] item.pamhc2trees.maplesyrupitem
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:maplesyrupitem
+[13:58:27.257][DONE][CLIENT][INFO] 1
+[13:58:27.257][DONE][CLIENT][INFO] 0.1
+[13:58:27.257][DONE][CLIENT][INFO] Olive
+[13:58:27.257][DONE][CLIENT][INFO] pamhc2trees:oliveitem
+[13:58:27.257][DONE][CLIENT][INFO] 4
+[13:58:27.257][DONE][CLIENT][INFO] 0.3
+[13:58:27.257][DONE][CLIENT][INFO] Orange
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:orangeitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Papaya
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:papayaitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Passionfruit
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:passionfruititem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pawpaw
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pawpawitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Peach
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:peachitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pear
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pearitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pecan
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pecanitem
+[13:58:27.258][DONE][CLIENT][INFO] 1
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Persimmon
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:persimmonitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pinenuts
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pinenutitem
+[13:58:27.258][DONE][CLIENT][INFO] 1
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pistachio
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pistachioitem
+[13:58:27.258][DONE][CLIENT][INFO] 1
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Plum
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:plumitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Pomegranate
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:pomegranateitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Rambutan
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:rambutanitem
+[13:58:27.258][DONE][CLIENT][INFO] 4
+[13:58:27.258][DONE][CLIENT][INFO] 0.3
+[13:58:27.258][DONE][CLIENT][INFO] Roasted Almond
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:roastedalmonditem
+[13:58:27.258][DONE][CLIENT][INFO] 5
+[13:58:27.258][DONE][CLIENT][INFO] 0.6
+[13:58:27.258][DONE][CLIENT][INFO] Roasted Cashew
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:roastedcashewitem
+[13:58:27.258][DONE][CLIENT][INFO] 5
+[13:58:27.258][DONE][CLIENT][INFO] 0.6
+[13:58:27.258][DONE][CLIENT][INFO] Roasted Chestnut
+[13:58:27.258][DONE][CLIENT][INFO] pamhc2trees:roastedchestnutitem
+[13:58:27.258][DONE][CLIENT][INFO] 5
+[13:58:27.258][DONE][CLIENT][INFO] 0.6
+[13:58:27.258][DONE][CLIENT][INFO] Roasted Hazelnut
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:roastedhazelnutitem
+[13:58:27.259][DONE][CLIENT][INFO] 5
+[13:58:27.259][DONE][CLIENT][INFO] 0.6
+[13:58:27.259][DONE][CLIENT][INFO] Roasted Pecan
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:roastedpecanitem
+[13:58:27.259][DONE][CLIENT][INFO] 5
+[13:58:27.259][DONE][CLIENT][INFO] 0.6
+[13:58:27.259][DONE][CLIENT][INFO] Roasted Pinenuts
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:roastedpinenutitem
+[13:58:27.259][DONE][CLIENT][INFO] 5
+[13:58:27.259][DONE][CLIENT][INFO] 0.6
+[13:58:27.259][DONE][CLIENT][INFO] Roasted Pistachio
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:roastedpistachioitem
+[13:58:27.259][DONE][CLIENT][INFO] 5
+[13:58:27.259][DONE][CLIENT][INFO] 0.6
+[13:58:27.259][DONE][CLIENT][INFO] Roasted Walnut
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:roastedwalnutitem
+[13:58:27.259][DONE][CLIENT][INFO] 5
+[13:58:27.259][DONE][CLIENT][INFO] 0.6
+[13:58:27.259][DONE][CLIENT][INFO] Soursop
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:soursopitem
+[13:58:27.259][DONE][CLIENT][INFO] 4
+[13:58:27.259][DONE][CLIENT][INFO] 0.3
+[13:58:27.259][DONE][CLIENT][INFO] Starfruit
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:starfruititem
+[13:58:27.259][DONE][CLIENT][INFO] 4
+[13:58:27.259][DONE][CLIENT][INFO] 0.3
+[13:58:27.259][DONE][CLIENT][INFO] Tamarind
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:tamarinditem
+[13:58:27.259][DONE][CLIENT][INFO] 4
+[13:58:27.259][DONE][CLIENT][INFO] 0.3
+[13:58:27.259][DONE][CLIENT][INFO] Walnut
+[13:58:27.259][DONE][CLIENT][INFO] pamhc2trees:walnutitem
+[13:58:27.259][DONE][CLIENT][INFO] 1
+[13:58:27.259][DONE][CLIENT][INFO] 0.3

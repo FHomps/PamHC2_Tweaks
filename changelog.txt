@@ -1,0 +1,2612 @@
+Steak (minecraft:cooked_beef)
+8 -> 7 (Steak)
+0.80 -> 0.60 (Steak)
+
+Cooked Chicken (minecraft:cooked_chicken)
+6
+0.60 -> 0.50 (Cooked*)
+
+Cooked Mutton (minecraft:cooked_mutton)
+6
+0.80 -> 0.70 (Cooked*)
+
+Cooked Porkchop (minecraft:cooked_porkchop)
+8 -> 7 (Cooked Porkchop)
+0.80 -> 0.60 (Cooked*, Cooked Porkchop)
+
+Cooked Salmon (minecraft:cooked_salmon)
+6
+0.80 -> 0.70 (Cooked*)
+
+Apple Jelly (pamhc2foodcore:applejellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Apple Jelly Toast (pamhc2foodcore:applejellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Apple Juice (pamhc2foodcore:applejuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Apple Pie (pamhc2foodcore:applepieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Applesauce (pamhc2foodcore:applesauceitem)
+10 -> 5 (General, Applesauce)
+1.20 -> 0.60 (General, Applesauce)
+
+Apple Smoothie (pamhc2foodcore:applesmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Apple Yogurt (pamhc2foodcore:appleyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Bacon and Eggs (pamhc2foodcore:baconandeggsitem)
+6
+1.20 -> 0.50 (General)
+
+Bacon Cheeseburger (pamhc2foodcore:baconcheeseburgeritem)
+25 -> 21 (General, *burger)
+1.20 -> 0.60 (General, *burger)
+
+Baked Vegetable Medly (pamhc2foodcore:bakedvegetablemedlyitem)
+7 -> 4 (Baked *, Baked Vegetable Medly)
+1.20 -> 0.50 (General, Baked *, Baked Vegetable Medly)
+
+Basic Cheeseburger (pamhc2foodcore:basiccheeseburgeritem)
+17 -> 13 (General, *burger)
+1.20 -> 0.60 (General, *burger)
+
+Basic Chicken Sandwich (pamhc2foodcore:basicchickensandwichitem)
+12 -> 8 (General, * Sandwich)
+1.20 -> 0.60 (General, * Sandwich)
+
+Basic Fish Sandwich (pamhc2foodcore:basicfishsandwichitem)
+12 -> 8 (General, * Sandwich)
+1.20 -> 0.60 (General, * Sandwich)
+
+Basic Hamburger (pamhc2foodcore:basichamburgeritem)
+13 -> 11 (General, *burger)
+1.20 -> 0.60 (General, *burger)
+
+Beef Jerky (pamhc2foodcore:beefjerkyitem)
+6
+1.20 -> 0.50 (General)
+
+Boiled Egg (pamhc2foodcore:boiledeggitem)
+3
+1.20 -> 0.50 (General)
+
+Buttered Baked Potato (pamhc2foodcore:butteredbakedpotatoitem)
+11 -> 8 (General, Buttered Baked Potato)
+1.20 -> 0.50 (General)
+
+Caramel Apple (pamhc2foodcore:caramelappleitem)
+9 -> 6 (General, Caramel Apple)
+1.20 -> 0.60 (General, Caramel Apple)
+
+Caramel Cupcake (pamhc2foodcore:caramelcupcakeitem)
+2
+1.20 -> 0.50 (General)
+
+Caramel Ice Cream (pamhc2foodcore:caramelicecreamitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Caramel (pamhc2foodcore:caramelitem)
+4
+1.20 -> 0.50 (General)
+
+Caramel Muffin (pamhc2foodcore:caramelmuffinitem)
+3
+1.20 -> 0.50 (General)
+
+Caramel Yogurt (pamhc2foodcore:caramelyogurtitem)
+6 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Carrot Bread (pamhc2foodcore:carrotbreaditem)
+7
+1.20 -> 0.50 (General)
+
+Carrot Cake (pamhc2foodcore:carrotcakeitem)
+9 -> 8 (General, *Cake)
+1.20 -> 0.60 (General, *Cake)
+
+Carrot Cupcake (pamhc2foodcore:carrotcupcakeitem)
+2
+1.20 -> 0.50 (General)
+
+Carrot Muffin (pamhc2foodcore:carrotmuffinitem)
+3
+1.20 -> 0.50 (General)
+
+Carrot Soup (pamhc2foodcore:carrotsoupitem)
+7 -> 6 (*Soup)
+1.20 -> 0.60 (General, *Soup)
+
+Cheese Cake (pamhc2foodcore:cheesecakeitem)
+9 -> 8 (General, *Cake)
+1.20 -> 0.60 (General, *Cake)
+
+Cheese (pamhc2foodcore:cheeseitem)
+4
+1.20 -> 0.50 (General)
+
+Chicken Dinner (pamhc2foodcore:chickendinneritem)
+21 -> 19 (General, Chicken Dinner)
+1.20 -> 0.50 (General)
+
+Chicken Jerky (pamhc2foodcore:chickenjerkyitem)
+5
+1.20 -> 0.50 (General)
+
+Chicken Nugget (pamhc2foodcore:chickennuggetitem)
+3
+1.20 -> 0.50 (General)
+
+Chicken Pot Pie (pamhc2foodcore:chickenpotpieitem)
+10 -> 10 (General, Chicken Pot Pie)
+1.20 -> 0.60 (General, * Pie, Chicken Pot Pie)
+
+Chocolate Bacon (pamhc2foodcore:chocolatebaconitem)
+6
+1.20 -> 0.50 (General)
+
+Chocolate Bar (pamhc2foodcore:chocolatebaritem)
+2
+1.20 -> 0.50 (General)
+
+Chocolate Cake (pamhc2foodcore:chocolatecakeitem)
+7
+1.20 -> 0.70 (General, *Cake)
+
+Chocolate Caramel Fudge (pamhc2foodcore:chocolatecaramelfudgeitem)
+7
+1.20 -> 0.50 (General)
+
+Chocolate Cupcake (pamhc2foodcore:chocolatecupcakeitem)
+2
+1.20 -> 0.50 (General)
+
+Chocolate Donut (pamhc2foodcore:chocolatedonutitem)
+9 -> 8 (General, * Donut)
+1.20 -> 0.70 (General, * Donut)
+
+Chocolate Ice Cream (pamhc2foodcore:chocolateicecreamitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Chocolate Muffin (pamhc2foodcore:chocolatemuffinitem)
+3
+1.20 -> 0.50 (General)
+
+Chocolate Pudding (pamhc2foodcore:chocolatepuddingitem)
+5
+1.20 -> 0.50 (General)
+
+Chocolate Roll (pamhc2foodcore:chocolaterollitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Chocolate Yogurt (pamhc2foodcore:chocolateyogurtitem)
+6 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Cookies and Milk (pamhc2foodcore:cookiesandmilkitem)
+5
+1.20 -> 0.50 (General)
+
+Cotton Candy (pamhc2foodcore:cottoncandyitem)
+2
+1.20 -> 0.50 (General)
+
+Cracker (pamhc2foodcore:crackeritem)
+5
+1.20 -> 0.50 (General)
+
+Donut (pamhc2foodcore:donutitem)
+8 -> 6 (General, Donut)
+1.20 -> 0.70 (General, Donut)
+
+Epic Bacon (pamhc2foodcore:epicbaconitem)
+11 -> 12 (General, Epic Bacon)
+1.20 -> 1.00 (General, Epic Bacon)
+
+Fish and Chips (pamhc2foodcore:fishandchipsitem)
+11 -> 10 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Fish Jerky (pamhc2foodcore:fishjerkyitem)
+5
+1.20 -> 0.50 (General)
+
+Fish Sticks (pamhc2foodcore:fishsticksitem)
+6
+1.20 -> 0.50 (General)
+
+Fried Chicken (pamhc2foodcore:friedchickenitem)
+7
+1.20 -> 0.50 (General)
+
+Fried Egg (pamhc2foodcore:friedeggitem)
+3
+1.20 -> 0.50 (General)
+
+Fries (pamhc2foodcore:friesitem)
+6
+1.20 -> 0.50 (General)
+
+Fruit Crumble (pamhc2foodcore:fruitcrumbleitem)
+10 -> 8 (General, *Crumble)
+1.20 -> 0.50 (General)
+
+Fruit Punch (pamhc2foodcore:fruitpunchitem)
+13 -> 6 (General, Fruit Punch)
+1.20 -> 0.30 (General, Fruit Punch)
+
+Fruit Salad (pamhc2foodcore:fruitsaladitem)
+9 -> 5 (General, Fruit Salad)
+1.20 -> 0.30 (General, Fruit Salad)
+
+Glazed Carrots (pamhc2foodcore:glazedcarrotsitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Grilled Cheese (pamhc2foodcore:grilledcheeseitem)
+13 -> 8 (General, Grilled Cheese)
+1.20 -> 0.30 (General, Grilled Cheese)
+
+Ground Beef (pamhc2foodcore:groundbeefitem)
+4
+1.20 -> 0.50 (General)
+
+Ground Chicken (pamhc2foodcore:groundchickenitem)
+3
+1.20 -> 0.50 (General)
+
+Ground Fish (pamhc2foodcore:groundfishitem)
+3
+1.20 -> 0.50 (General)
+
+Ground Mutton (pamhc2foodcore:groundmuttonitem)
+3
+1.20 -> 0.50 (General)
+
+Ground Pork (pamhc2foodcore:groundporkitem)
+4
+1.20 -> 0.50 (General)
+
+Ground Rabbit (pamhc2foodcore:groundrabbititem)
+3
+1.20 -> 0.50 (General)
+
+Gummy Bears (pamhc2foodcore:gummybearsitem)
+4
+1.20 -> 0.50 (General)
+
+Hot Chocolate (pamhc2foodcore:hotchocolateitem)
+7 -> 3 (Hot *)
+1.20 -> 0.50 (General)
+
+Hot Dog (pamhc2foodcore:hotdogitem)
+13 -> 7 (General, Hot *, Hot Dog)
+1.20 -> 0.40 (General, Hot Dog)
+
+Ice Cream (pamhc2foodcore:icecreamitem)
+6
+1.20 -> 0.50 (General)
+
+Jelly Beans (pamhc2foodcore:jellybeansitem)
+4
+1.20 -> 0.50 (General)
+
+Jelly Donut (pamhc2foodcore:jellydonutitem)
+12 -> 11 (General, * Donut)
+1.20 -> 0.70 (General, * Donut)
+
+Mac n Cheese (pamhc2foodcore:macncheeseitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Marshmellow Chicks (pamhc2foodcore:marshmellowchicksitem)
+3
+1.20 -> 0.50 (General)
+
+Marshmellows (pamhc2foodcore:marshmellowsitem)
+2
+1.20 -> 0.50 (General)
+
+Mashed Potatoes (pamhc2foodcore:mashedpotatoesitem)
+11 -> 10 (General, Mashed Potatoes)
+1.20 -> 0.50 (General)
+
+Meatloaf (pamhc2foodcore:meatloafitem)
+10 -> 8 (General, Meatloaf)
+1.20 -> 0.50 (General)
+
+Melon Jelly (pamhc2foodcore:melonjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Melon Jelly Toast (pamhc2foodcore:melonjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Melon Juice (pamhc2foodcore:melonjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Melon Smoothie (pamhc2foodcore:melonsmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Mutton Jerky (pamhc2foodcore:muttonjerkyitem)
+5
+1.20 -> 0.50 (General)
+
+Noodle Soup (pamhc2foodcore:noodlesoupitem)
+10 -> 9 (General, *Soup)
+1.20 -> 0.60 (General, *Soup)
+
+P8 Juice (pamhc2foodcore:p8juiceitem)
+7 -> 4 (* Juice, P8 Juice)
+1.20 -> 0.50 (General, * Juice, P8 Juice)
+
+Pickled Beets (pamhc2foodcore:pickledbeetsitem)
+7
+1.20 -> 0.50 (General)
+
+Pork Jerky (pamhc2foodcore:porkjerkyitem)
+6
+1.20 -> 0.50 (General)
+
+Potato Chips (pamhc2foodcore:potatochipsitem)
+6
+1.20 -> 0.50 (General)
+
+Potato Soup (pamhc2foodcore:potatosoupitem)
+7 -> 6 (*Soup)
+1.20 -> 0.60 (General, *Soup)
+
+Pot Roast (pamhc2foodcore:potroastitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Pumpkin Bread (pamhc2foodcore:pumpkinbreaditem)
+7
+1.20 -> 0.50 (General)
+
+Pumpkin Cheese Cake (pamhc2foodcore:pumpkincheesecakeitem)
+12 -> 11 (General, *Cake)
+1.20 -> 0.60 (General, *Cake)
+
+Pumpkin Cupcake (pamhc2foodcore:pumpkincupcakeitem)
+2
+1.20 -> 0.50 (General)
+
+Pumpkin Muffin (pamhc2foodcore:pumpkinmuffinitem)
+3
+1.20 -> 0.50 (General)
+
+Pumpkin Soup (pamhc2foodcore:pumpkinsoupitem)
+7 -> 6 (*Soup)
+1.20 -> 0.60 (General, *Soup)
+
+Pumpkin Yogurt (pamhc2foodcore:pumpkinyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Rabbit Jerky (pamhc2foodcore:rabbitjerkyitem)
+5
+1.20 -> 0.50 (General)
+
+Roasted Sunflower Seeds (pamhc2foodcore:roastedsunflowerseedsitem)
+5 -> 4 (Roasted *)
+1.20 -> 0.60 (General, Roasted *)
+
+Scrambled Egg (pamhc2foodcore:scrambledeggitem)
+7
+1.20 -> 0.50 (General)
+
+Smores (pamhc2foodcore:smoresitem)
+10 -> 9 (General)
+1.20 -> 0.50 (General)
+
+Soft Pretzel (pamhc2foodcore:softpretzelitem)
+6
+1.20 -> 0.50 (General)
+
+Stew (pamhc2foodcore:stewitem)
+15 -> 7 (General, Stew)
+1.20 -> 0.70 (General, Stew)
+
+Stock (pamhc2foodcore:stockitem)
+5 -> 4 (Stock)
+1.20 -> 0.50 (General)
+
+Sunflower Seeds (pamhc2foodcore:sunflowerseedsitem)
+1
+1.20 -> 0.50 (General)
+
+Sweet Berry Jelly (pamhc2foodcore:sweetberryjellyitem)
+3
+1.20 -> 0.50 (General, * Jelly)
+
+Sweet Berry Toast (pamhc2foodcore:sweetberryjellytoastitem)
+9 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Sweet Berry Juice (pamhc2foodcore:sweetberryjuiceitem)
+3 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Sweet Berry Pie (pamhc2foodcore:sweetberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Sweet Berry Smoothie (pamhc2foodcore:sweetberrysmoothieitem)
+5 -> 5 (* Smoothie, Sweet Berry Smoothie)
+1.20 -> 0.60 (General, * Smoothie, Sweet Berry Smoothie)
+
+Sweet Berry Yogurt (pamhc2foodcore:sweetberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Toast (pamhc2foodcore:toastitem)
+5 -> 4 (Toast)
+1.20 -> 0.60 (General, Toast)
+
+Trail Mix (pamhc2foodcore:trailmixitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Yogurt (pamhc2foodcore:yogurtitem)
+3 -> 3 (Yogurt)
+1.20 -> 0.50 (General, *Yogurt, Yogurt)
+
+Almond Butter (pamhc2foodextended:almondbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Anchovy Pepperoni Pizza (pamhc2foodextended:anchovypepperonipizzaitem)
+17 -> 13 (General)
+1.20 -> 0.50 (General)
+
+Apple Jelly Sandwich (pamhc2foodextended:applejellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Apricot Jelly (pamhc2foodextended:apricotjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Apricot Jelly Sandwich (pamhc2foodextended:apricotjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Apricot Jelly Toast (pamhc2foodextended:apricotjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Apricot Juice (pamhc2foodextended:apricotjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Apricot Pie (pamhc2foodextended:apricotpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Apricot Smoothie (pamhc2foodextended:apricotsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Apricot Yogurt (pamhc2foodextended:apricotyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Banana Jelly (pamhc2foodextended:bananajellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Banana Jelly Sandwich (pamhc2foodextended:bananajellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Banana Jelly Toast (pamhc2foodextended:bananajellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Banana Juice (pamhc2foodextended:bananajuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Banana Pie (pamhc2foodextended:bananapieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Banana Smoothie (pamhc2foodextended:bananasmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Banana Yogurt (pamhc2foodextended:bananayogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+BBQ Chicken Pizza (pamhc2foodextended:bbqchickenpizzaitem)
+11 -> 9 (General)
+1.20 -> 0.50 (General)
+
+BBQ Potato Chips (pamhc2foodextended:bbqpotatochipsitem)
+9 -> 8 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+BBQ Sauce (pamhc2foodextended:bbqsauceitem)
+5
+1.20 -> 0.50 (General)
+
+Beans and Rice (pamhc2foodextended:beansandriceitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Blackberry Jelly (pamhc2foodextended:blackberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Blackberry Jelly Sandwich (pamhc2foodextended:blackberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Blackberry Jelly Toast (pamhc2foodextended:blackberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Blackberry Juice (pamhc2foodextended:blackberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Blackberry Pie (pamhc2foodextended:blackberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Blackberry Smoothie (pamhc2foodextended:blackberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Blackberry Yogurt (pamhc2foodextended:blackberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Blueberry Jelly (pamhc2foodextended:blueberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Blueberry Jelly Sandwich (pamhc2foodextended:blueberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Blueberry Jelly Toast (pamhc2foodextended:blueberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Blueberry Juice (pamhc2foodextended:blueberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Blueberry Pie (pamhc2foodextended:blueberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Blueberry Smoothie (pamhc2foodextended:blueberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Blueberry Yogurt (pamhc2foodextended:blueberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Breadfruit Jelly (pamhc2foodextended:breadfruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Breadfruit Jelly Sandwich (pamhc2foodextended:breadfruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Breadfruit Jelly Toast (pamhc2foodextended:breadfruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Breadfruit Juice (pamhc2foodextended:breadfruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Breadfruit Pie (pamhc2foodextended:breadfruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Breadfruit Smoothie (pamhc2foodextended:breadfruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Breadfruit Yogurt (pamhc2foodextended:breadfruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Cactus Fruit Jelly (pamhc2foodextended:cactusfruitjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Cactus Fruit Jelly Sandwich (pamhc2foodextended:cactusfruitjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Cactus Fruit Jelly Toast (pamhc2foodextended:cactusfruitjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Cactus Fruit Juice (pamhc2foodextended:cactusfruitjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Cactus Fruit Pie (pamhc2foodextended:cactusfruitpieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Cactus Fruit Smoothie (pamhc2foodextended:cactusfruitsmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Cactus Fruit Yogurt (pamhc2foodextended:cactusfruityogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Candied Ginger (pamhc2foodextended:candiedgingeritem)
+3
+1.20 -> 0.50 (General)
+
+Candied Lemon (pamhc2foodextended:candiedlemonitem)
+3
+1.20 -> 0.50 (General)
+
+Candied Pecans (pamhc2foodextended:candiedpecansitem)
+3
+1.20 -> 0.50 (General)
+
+Candied Sweet Potatoes (pamhc2foodextended:candiedsweetpotatoesitem)
+3
+1.20 -> 0.50 (General)
+
+Candied Walnuts (pamhc2foodextended:candiedwalnutsitem)
+3
+1.20 -> 0.50 (General)
+
+Candleberry Jelly (pamhc2foodextended:candleberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Candleberry Jelly Sandwich (pamhc2foodextended:candleberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Candleberry Jelly Toast (pamhc2foodextended:candleberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Candleberry Juice (pamhc2foodextended:candleberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Candleberry Pie (pamhc2foodextended:candleberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Candleberry Smoothie (pamhc2foodextended:candleberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Candleberry Yogurt (pamhc2foodextended:candleberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Cantaloupe Jelly (pamhc2foodextended:cantaloupejellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Cantaloupe Jelly Sandwich (pamhc2foodextended:cantaloupejellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Cantaloupe Jelly Toast (pamhc2foodextended:cantaloupejellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Cantaloupe Juice (pamhc2foodextended:cantaloupejuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Cantaloupe Pie (pamhc2foodextended:cantaloupepieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Cantaloupe Smoothie (pamhc2foodextended:cantaloupesmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Cantaloupe Yogurt (pamhc2foodextended:cantaloupeyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Cashew Butter (pamhc2foodextended:cashewbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Cheddar and Sour Cream Potato Chips (pamhc2foodextended:cheddarandsourcreampotatochipsitem)
+11 -> 10 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Cherry Jelly (pamhc2foodextended:cherryjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Cherry Jelly Sandwich (pamhc2foodextended:cherryjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Cherry Jelly Toast (pamhc2foodextended:cherryjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Cherry Juice (pamhc2foodextended:cherryjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Cherry Pie (pamhc2foodextended:cherrypieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Cherry Smoothie (pamhc2foodextended:cherrysmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Cherry Soda (pamhc2foodextended:cherrysodaitem)
+8 -> 5 (General, * Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Cherry Yogurt (pamhc2foodextended:cherryyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Chesnut Butter (pamhc2foodextended:chestnutbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Chili Chocolate (pamhc2foodextended:chilichocolateitem)
+6
+1.20 -> 0.50 (General)
+
+Chimichanga (pamhc2foodextended:chimichangaitem)
+29 -> 20 (General)
+1.20 -> 0.50 (General)
+
+Chips and Dip (pamhc2foodextended:chipsanddipitem)
+10 -> 9 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Chips and Salsa (pamhc2foodextended:chipsandsalsaitem)
+17 -> 16 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Chocolate Cherry (pamhc2foodextended:chocolatecherryitem)
+7
+1.20 -> 0.50 (General)
+
+Chocolate Coconut Bar (pamhc2foodextended:chocolatecoconutbaritem)
+7
+1.20 -> 0.50 (General)
+
+Chocolate Orange (pamhc2foodextended:chocolateorangeitem)
+7
+1.20 -> 0.50 (General)
+
+Chocolate Peanut Bar (pamhc2foodextended:chocolatepeanutbaritem)
+4
+1.20 -> 0.50 (General)
+
+Chocolate Strawberry (pamhc2foodextended:chocolatestrawberryitem)
+5
+1.20 -> 0.50 (General)
+
+Cola Soda (pamhc2foodextended:colasodaitem)
+5 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Cooked Tofabbit (pamhc2foodextended:cookedtofabbititem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Cooked Tofacon (pamhc2foodextended:cookedtofaconitem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Cooked Tofeak (pamhc2foodextended:cookedtofeakitem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Cooked Toficken (pamhc2foodextended:cookedtofickenitem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Cooked Tofish (pamhc2foodextended:cookedtofishitem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Cooked Tofutton (pamhc2foodextended:cookedtofuttonitem)
+6 -> 7 (Cooked Tof*)
+1.20 -> 0.50 (General, Cooked Tof*)
+
+Corn Chips (pamhc2foodextended:cornchipsitem)
+6
+1.20 -> 0.50 (General)
+
+Cornmeal (pamhc2foodextended:cornmealitem)
+2
+1.20 -> 0.50 (General)
+
+Cranberry Jelly (pamhc2foodextended:cranberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Cranberry Jelly Sandwich (pamhc2foodextended:cranberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Cranberry Jelly Toast (pamhc2foodextended:cranberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Cranberry Juice (pamhc2foodextended:cranberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Cranberry Pie (pamhc2foodextended:cranberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Cranberry Smoothie (pamhc2foodextended:cranberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Cranberry Yogurt (pamhc2foodextended:cranberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Crisp Rice Puff Bars (pamhc2foodextended:crispyricepuffbarsitem)
+4
+1.20 -> 0.50 (General)
+
+Date Jelly (pamhc2foodextended:datejellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Date Jelly Sandwich (pamhc2foodextended:datejellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Date Jelly Toast (pamhc2foodextended:datejellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Date Juice (pamhc2foodextended:datejuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Date Pie (pamhc2foodextended:datepieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Date Smoothie (pamhc2foodextended:datesmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Date Yogurt (pamhc2foodextended:dateyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Deluxe Nachoes (pamhc2foodextended:deluxenachoesitem)
+30 -> 21 (General)
+1.20 -> 0.50 (General)
+
+Dragonfruit Jelly (pamhc2foodextended:dragonfruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Dragonfruit Jelly Sandwich (pamhc2foodextended:dragonfruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Dragonfruit Jelly Toast (pamhc2foodextended:dragonfruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Dragonfruit Juice (pamhc2foodextended:dragonfruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Dragonfruit Pie (pamhc2foodextended:dragonfruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Dragonfruit Smoothie (pamhc2foodextended:dragonfruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Dragonfruit Yogurt (pamhc2foodextended:dragonfruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Durian Jelly (pamhc2foodextended:durianjellyitem)
+3
+1.20 -> 0.50 (General, * Jelly)
+
+Durian Jelly Sandwich (pamhc2foodextended:durianjellysandwichitem)
+11 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Durian Jelly Toast (pamhc2foodextended:durianjellytoastitem)
+9 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Durian Juice (pamhc2foodextended:durianjuiceitem)
+3 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Durian Pie (pamhc2foodextended:durianpieitem)
+6
+1.20 -> 0.70 (General, * Pie)
+
+Durian Smoothie (pamhc2foodextended:duriansmoothieitem)
+5 -> 4 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Durian Yogurt (pamhc2foodextended:durianyogurtitem)
+4
+1.20 -> 0.50 (General, *Yogurt)
+
+Edible Root (pamhc2foodextended:ediblerootitem)
+2
+1.20 -> 0.50 (General)
+
+Elderberry Jelly (pamhc2foodextended:elderberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Elderberry Jelly Sandwich (pamhc2foodextended:elderberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Elderberry Jelly Toast (pamhc2foodextended:elderberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Elderberry Juice (pamhc2foodextended:elderberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Elderberry Pie (pamhc2foodextended:elderberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Elderberry Smoothie (pamhc2foodextended:elderberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Elderberry Yogurt (pamhc2foodextended:elderberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Enchilada (pamhc2foodextended:enchiladaitem)
+20 -> 15 (General)
+1.20 -> 0.50 (General)
+
+Energy Drink (pamhc2foodextended:energydrinkitem)
+6
+1.20 -> 0.50 (General)
+
+Fiesta Corn Salad (pamhc2foodextended:fiestacornsaladitem)
+12 -> 10 (General)
+1.20 -> 0.50 (General)
+
+Fig Jelly (pamhc2foodextended:figjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Fig Jelly Sandwich (pamhc2foodextended:figjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Fig Jelly Toast (pamhc2foodextended:figjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Fig Juice (pamhc2foodextended:figjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Fig Pie (pamhc2foodextended:figpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Fig Smoothie (pamhc2foodextended:figsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Fig Yogurt (pamhc2foodextended:figyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Firm Tofu (pamhc2foodextended:firmtofuitem)
+3
+1.20 -> 0.50 (General)
+
+Fish Taco (pamhc2foodextended:fishtacoitem)
+14 -> 11 (General)
+1.20 -> 0.50 (General)
+
+Garlic Bread (pamhc2foodextended:garlicbreaditem)
+10 -> 8 (General, Garlic Bread)
+1.20 -> 0.50 (General, Garlic Bread)
+
+Garlic Chicken (pamhc2foodextended:garlicchickenitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Garlic Mashed Potatoes (pamhc2foodextended:garlicmashedpotatoesitem)
+12 -> 10 (General)
+1.20 -> 0.50 (General)
+
+Ginger Soda (pamhc2foodextended:gingersodaitem)
+5 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Gooseberry Jelly (pamhc2foodextended:gooseberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Gooseberry Jelly Sandwich (pamhc2foodextended:gooseberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Gooseberry Jelly Toast (pamhc2foodextended:gooseberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Gooseberry Juice (pamhc2foodextended:gooseberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Gooseberry Pie (pamhc2foodextended:gooseberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Gooseberry Smoothie (pamhc2foodextended:gooseberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Gooseberry Yogurt (pamhc2foodextended:gooseberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Grapefruit Jelly (pamhc2foodextended:grapefruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Grapefruit Jelly Sandwich (pamhc2foodextended:grapefruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Grapefruit Jelly Toast (pamhc2foodextended:grapefruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Grapefruit Juice (pamhc2foodextended:grapefruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Grapefruit Pie (pamhc2foodextended:grapefruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Grapefruit Smoothie (pamhc2foodextended:grapefruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Grapefruit Soda (pamhc2foodextended:grapefruitsodaitem)
+8 -> 5 (General, * Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Grapefruit Yogurt (pamhc2foodextended:grapefruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Grape Jelly (pamhc2foodextended:grapejellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Grape Jelly Sandwich (pamhc2foodextended:grapejellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Grape Jelly Toast (pamhc2foodextended:grapejellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Grape Juice (pamhc2foodextended:grapejuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Grape Pie (pamhc2foodextended:grapepieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Grape Smoothie (pamhc2foodextended:grapesmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Grape Soda (pamhc2foodextended:grapesodaitem)
+6 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Grape Yogurt (pamhc2foodextended:grapeyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Green Grape Jelly (pamhc2foodextended:greengrapejellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Green Grape Jelly Sandwich (pamhc2foodextended:greengrapejellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Green Grape Jelly Toast (pamhc2foodextended:greengrapejellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Green Grape Juice (pamhc2foodextended:greengrapejuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Green Grape Pie (pamhc2foodextended:greengrapepieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Green Grape Smoothie (pamhc2foodextended:greengrapesmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Green Grape Yogurt (pamhc2foodextended:greengrapeyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Guava Jelly (pamhc2foodextended:guavajellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Guava Jelly Sandwich (pamhc2foodextended:guavajellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Guava Jelly Toast (pamhc2foodextended:guavajellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Guava Juice (pamhc2foodextended:guavajuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Guava Pie (pamhc2foodextended:guavapieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Guava Smoothie (pamhc2foodextended:guavasmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Guava Yogurt (pamhc2foodextended:guavayogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Ham and Pinapple Pizza (pamhc2foodextended:hamandpineapplepizzaitem)
+17 -> 13 (General)
+1.20 -> 0.50 (General)
+
+Hazelnut Butter (pamhc2foodextended:hazelnutbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Hazelnut Chocolate (pamhc2foodextended:hazelnutchocolateitem)
+4
+1.20 -> 0.50 (General)
+
+Huckleberry Jelly (pamhc2foodextended:huckleberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Huckleberry Jelly Sandwich (pamhc2foodextended:huckleberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Huckleberry Jelly Toast (pamhc2foodextended:huckleberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Huckleberry Juice (pamhc2foodextended:huckleberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Huckleberry Pie (pamhc2foodextended:huckleberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Huckleberry Smoothie (pamhc2foodextended:huckleberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Huckleberry Yogurt (pamhc2foodextended:huckleberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Jackfruit Jelly (pamhc2foodextended:jackfruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Jackfruit Jelly Sandwich (pamhc2foodextended:jackfruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Jackfruit Jelly Toast (pamhc2foodextended:jackfruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Jackfruit Juice (pamhc2foodextended:jackfruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Jackfruit Pie (pamhc2foodextended:jackfruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Jackfruit Smoothie (pamhc2foodextended:jackfruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Jackfruit Yogurt (pamhc2foodextended:jackfruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Juniperberry Jelly (pamhc2foodextended:juniperberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Juniperberry Jelly Sandwich (pamhc2foodextended:juniperberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Juniperberry Jelly Toast (pamhc2foodextended:juniperberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Juniperberry Juice (pamhc2foodextended:juniperberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Juniperberry Pie (pamhc2foodextended:juniperberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Juniperberry Smoothie (pamhc2foodextended:juniperberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Juniperberry Yogurt (pamhc2foodextended:juniperberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Kiwi Jelly (pamhc2foodextended:kiwijellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Kiwi Jelly Sandwich (pamhc2foodextended:kiwijellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Kiwi Jelly Toast (pamhc2foodextended:kiwijellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Kiwi Juice (pamhc2foodextended:kiwijuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Kiwi Pie (pamhc2foodextended:kiwipieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Kiwi Smoothie (pamhc2foodextended:kiwismoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Kiwi Yogurt (pamhc2foodextended:kiwiyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Lemon Jelly (pamhc2foodextended:lemonjellyitem)
+3
+1.20 -> 0.50 (General, * Jelly)
+
+Lemon Jelly Sandwich (pamhc2foodextended:lemonjellysandwichitem)
+11 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Lemon Jelly Toast (pamhc2foodextended:lemonjellytoastitem)
+9 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Lemon Juice (pamhc2foodextended:lemonjuiceitem)
+3 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Lemon Lime Soda (pamhc2foodextended:lemonlimesodaitem)
+6 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Lemon Pie (pamhc2foodextended:lemonpieitem)
+6
+1.20 -> 0.70 (General, * Pie)
+
+Lemon Smoothie (pamhc2foodextended:lemonsmoothieitem)
+5 -> 4 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Lemon Yogurt (pamhc2foodextended:lemonyogurtitem)
+4
+1.20 -> 0.50 (General, *Yogurt)
+
+Lime Jelly (pamhc2foodextended:limejellyitem)
+3
+1.20 -> 0.50 (General, * Jelly)
+
+Lime Jelly Sandwich (pamhc2foodextended:limejellysandwichitem)
+11 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Lime Jelly Toast (pamhc2foodextended:limejellytoastitem)
+9 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Lime Juice (pamhc2foodextended:limejuiceitem)
+3 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Lime Pie (pamhc2foodextended:limepieitem)
+6
+1.20 -> 0.70 (General, * Pie)
+
+Lime Smoothie (pamhc2foodextended:limesmoothieitem)
+5 -> 4 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Lime Yogurt (pamhc2foodextended:limeyogurtitem)
+4
+1.20 -> 0.50 (General, *Yogurt)
+
+Lychee Jelly (pamhc2foodextended:lycheejellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Lychee Jelly Sandwich (pamhc2foodextended:lycheejellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Lychee Jelly Toast (pamhc2foodextended:lycheejellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Lychee Juice (pamhc2foodextended:lycheejuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Lychee Pie (pamhc2foodextended:lycheepieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Lychee Smoothie (pamhc2foodextended:lycheesmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Lychee Yogurt (pamhc2foodextended:lycheeyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Mango Jelly (pamhc2foodextended:mangojellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Mango Jelly Sandwich (pamhc2foodextended:mangojellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Mango Jelly Toast (pamhc2foodextended:mangojellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Mango Juice (pamhc2foodextended:mangojuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Mango Pie (pamhc2foodextended:mangopieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Mango Smoothie (pamhc2foodextended:mangosmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Mango Yogurt (pamhc2foodextended:mangoyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Maple Candied Bacon (pamhc2foodextended:maplecandiedbaconitem)
+5
+1.20 -> 0.50 (General)
+
+Marzipan (pamhc2foodextended:marzipanitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Meat Feast Pizza (pamhc2foodextended:meatfeastpizzaitem)
+27 -> 19 (General)
+1.20 -> 0.50 (General)
+
+Mulberry Jelly (pamhc2foodextended:mulberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Mulberry Jelly Sandwich (pamhc2foodextended:mulberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Mulberry Jelly Toast (pamhc2foodextended:mulberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Mulberry Juice (pamhc2foodextended:mulberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Mulberry Pie (pamhc2foodextended:mulberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Mulberry Smoothie (pamhc2foodextended:mulberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Mulberry Yogurt (pamhc2foodextended:mulberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Nachoes (pamhc2foodextended:nachoesitem)
+13 -> 11 (General)
+1.20 -> 0.50 (General)
+
+Orange Jelly (pamhc2foodextended:orangejellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Orange Jelly Sandwich (pamhc2foodextended:orangejellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Orange Jelly Toast (pamhc2foodextended:orangejellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Orange Juice (pamhc2foodextended:orangejuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Orange Pie (pamhc2foodextended:orangepieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Orange Smoothie (pamhc2foodextended:orangesmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Orange Soda (pamhc2foodextended:orangesodaitem)
+8 -> 5 (General, * Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Orange Yogurt (pamhc2foodextended:orangeyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Papaya Jelly (pamhc2foodextended:papayajellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Papaya Jelly Sandwich (pamhc2foodextended:papayajellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Papaya Jelly Toast (pamhc2foodextended:papayajellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Papaya Juice (pamhc2foodextended:papayajuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Papaya Pie (pamhc2foodextended:papayapieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Papaya Smoothie (pamhc2foodextended:papayasmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Papaya Yogurt (pamhc2foodextended:papayayogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Passonfruit Jelly (pamhc2foodextended:passionfruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Passonfruit Jelly Sandwich (pamhc2foodextended:passionfruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Passonfruit Jelly Toast (pamhc2foodextended:passionfruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Passonfruit Juice (pamhc2foodextended:passionfruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Passonfruit Pie (pamhc2foodextended:passionfruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Passonfruit Smoothie (pamhc2foodextended:passionfruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Passonfruit Yogurt (pamhc2foodextended:passionfruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Pawpaw Jelly (pamhc2foodextended:pawpawjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Pawpaw Jelly Sandwich (pamhc2foodextended:pawpawjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Pawpaw Jelly Toast (pamhc2foodextended:pawpawjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Pawpaw Juice (pamhc2foodextended:pawpawjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Pawpaw Pie (pamhc2foodextended:pawpawpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Pawpaw Smoothie (pamhc2foodextended:pawpawsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Pawpaw Yogurt (pamhc2foodextended:pawpawyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Peach Jelly (pamhc2foodextended:peachjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Peach Jelly Sandwich (pamhc2foodextended:peachjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Peach Jelly Toast (pamhc2foodextended:peachjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Peach Juice (pamhc2foodextended:peachjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Peach Pie (pamhc2foodextended:peachpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Peach Smoothie (pamhc2foodextended:peachsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Peach Yogurt (pamhc2foodextended:peachyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Peanut Butter Cup (pamhc2foodextended:peanutbuttercupitem)
+5
+1.20 -> 0.50 (General)
+
+Peanut Butter (pamhc2foodextended:peanutbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Pear Jelly (pamhc2foodextended:pearjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Pear Jelly Sandwich (pamhc2foodextended:pearjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Pear Jelly Toast (pamhc2foodextended:pearjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Pear Juice (pamhc2foodextended:pearjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Pear Pie (pamhc2foodextended:pearpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Pear Smoothie (pamhc2foodextended:pearsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Pear Yogurt (pamhc2foodextended:pearyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Pecan Butter (pamhc2foodextended:pecanbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Peppermint (pamhc2foodextended:peppermintitem)
+3
+1.20 -> 0.50 (General)
+
+Pepperoni (pamhc2foodextended:pepperoniitem)
+5
+1.20 -> 0.50 (General)
+
+Pepperoni Pizza (pamhc2foodextended:pepperonipizzaitem)
+16 -> 12 (General)
+1.20 -> 0.50 (General)
+
+Persimmon Jelly (pamhc2foodextended:persimmonjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Persimmon Jelly Sandwich (pamhc2foodextended:persimmonjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Persimmon Jelly Toast (pamhc2foodextended:persimmonjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Persimmon Juice (pamhc2foodextended:persimmonjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Persimmon Pie (pamhc2foodextended:persimmonpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Persimmon Smoothie (pamhc2foodextended:persimmonsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Persimmon Yogurt (pamhc2foodextended:persimmonyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Pineapple Jelly (pamhc2foodextended:pineapplejellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Pineapple Jelly Sandwich (pamhc2foodextended:pineapplejellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Pineapple Jelly Toast (pamhc2foodextended:pineapplejellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Pineapple Juice (pamhc2foodextended:pineapplejuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Pineapple Pie (pamhc2foodextended:pineapplepieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Pineapple Smoothie (pamhc2foodextended:pineapplesmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Pineapple Yogurt (pamhc2foodextended:pineappleyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Pistachio Butter (pamhc2foodextended:pistachiobutteritem)
+2
+1.20 -> 0.50 (General)
+
+Pizza Slice (pamhc2foodextended:pizzasliceitem)
+2
+1.20 -> 0.50 (General)
+
+Plum Jelly (pamhc2foodextended:plumjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Plum Jelly Sandwich (pamhc2foodextended:plumjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Plum Jelly Toast (pamhc2foodextended:plumjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Plum Juice (pamhc2foodextended:plumjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Plum Pie (pamhc2foodextended:plumpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Plum Smoothie (pamhc2foodextended:plumsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Plum Yogurt (pamhc2foodextended:plumyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Pomegranate Jelly (pamhc2foodextended:pomegranatejellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Pomegranate Jelly Sandwich (pamhc2foodextended:pomegranatejellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Pomegranate Jelly Toast (pamhc2foodextended:pomegranatejellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Pomegranate Juice (pamhc2foodextended:pomegranatejuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Pomegranate Pie (pamhc2foodextended:pomegranatepieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Pomegranate Smoothie (pamhc2foodextended:pomegranatesmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Pomegranate Yogurt (pamhc2foodextended:pomegranateyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Popcorn (pamhc2foodextended:popcornitem)
+7
+1.20 -> 0.50 (General)
+
+Pralines (pamhc2foodextended:pralinesitem)
+3
+1.20 -> 0.50 (General)
+
+Quesadilla (pamhc2foodextended:quesadillaitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Rambutan Jelly (pamhc2foodextended:rambutanjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Rambutan Jelly Sandwich (pamhc2foodextended:rambutanjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Rambutan Jelly Toast (pamhc2foodextended:rambutanjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Rambutan Juice (pamhc2foodextended:rambutanjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Rambutan Pie (pamhc2foodextended:rambutanpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Rambutan Smoothie (pamhc2foodextended:rambutansmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Rambutan Yogurt (pamhc2foodextended:rambutanyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Raspberry Jelly (pamhc2foodextended:raspberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Raspberry Jelly Sandwich (pamhc2foodextended:raspberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Raspberry Jelly Toast (pamhc2foodextended:raspberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Raspberry Juice (pamhc2foodextended:raspberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Raspberry Pie (pamhc2foodextended:raspberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Raspberry Smoothie (pamhc2foodextended:raspberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Raspberry Yogurt (pamhc2foodextended:raspberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Raw Tofabbit (pamhc2foodextended:rawtofabbititem)
+3
+1.20 -> 0.50 (General)
+
+Raw Tofacon (pamhc2foodextended:rawtofaconitem)
+3
+1.20 -> 0.50 (General)
+
+Raw Tofeak (pamhc2foodextended:rawtofeakitem)
+3
+1.20 -> 0.50 (General)
+
+Raw Toficken (pamhc2foodextended:rawtofickenitem)
+3
+1.20 -> 0.50 (General)
+
+Raw Tofish (pamhc2foodextended:rawtofishitem)
+3
+1.20 -> 0.50 (General)
+
+Raw Tofutton (pamhc2foodextended:rawtofuttonitem)
+3
+1.20 -> 0.50 (General)
+
+Refried Beans (pamhc2foodextended:refriedbeansitem)
+6
+1.20 -> 0.50 (General)
+
+Rootbeer Float (pamhc2foodextended:rootbeerfloatitem)
+10 -> 9 (General)
+1.20 -> 0.50 (General)
+
+Rootbeer Soda (pamhc2foodextended:rootbeersodaitem)
+6 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Salsa (pamhc2foodextended:salsaitem)
+8 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Sausage (pamhc2foodextended:sausageitem)
+6
+1.20 -> 0.50 (General)
+
+Sesame Snaps (pamhc2foodextended:sesamesnapsitem)
+3
+1.20 -> 0.50 (General)
+
+Silken Tofu (pamhc2foodextended:silkentofuitem)
+2
+1.20 -> 0.50 (General)
+
+Sour Cream and Onion Potato Chips (pamhc2foodextended:sourcreamandonionpotatochipsitem)
+8 -> 7 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Soursop Jelly (pamhc2foodextended:soursopjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Soursop Jelly Sandwich (pamhc2foodextended:soursopjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Soursop Jelly Toast (pamhc2foodextended:soursopjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Soursop Juice (pamhc2foodextended:soursopjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Soursop Pie (pamhc2foodextended:soursoppieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Soursop Smoothie (pamhc2foodextended:soursopsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Soursop Yogurt (pamhc2foodextended:soursopyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Soy Milk (pamhc2foodextended:soymilkitem)
+2
+1.20 -> 0.50 (General)
+
+Spagetti and Meatballs (pamhc2foodextended:spagettiandmeatballsitem)
+12 -> 10 (General)
+1.20 -> 0.50 (General)
+
+Spagetti (pamhc2foodextended:spagettiitem)
+9 -> 8 (General)
+1.20 -> 0.50 (General)
+
+Spagetti Dinner (pamhc2foodextended:spaghettidinneritem)
+25 -> 18 (General)
+1.20 -> 0.50 (General)
+
+Starfruit Jelly (pamhc2foodextended:starfruitjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Starfruit Jelly Sandwich (pamhc2foodextended:starfruitjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Starfruit Jelly Toast (pamhc2foodextended:starfruitjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Starfruit Juice (pamhc2foodextended:starfruitjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Starfruit Pie (pamhc2foodextended:starfruitpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Starfruit Smoothie (pamhc2foodextended:starfruitsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Starfruit Yogurt (pamhc2foodextended:starfruityogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Strawberry Jelly (pamhc2foodextended:strawberryjellyitem)
+4
+1.20 -> 0.50 (General, * Jelly)
+
+Strawberry Jelly Sandwich (pamhc2foodextended:strawberryjellysandwichitem)
+12 -> 7 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.70 (General, * Sandwich, * Jelly Sandwich)
+
+Strawberry Jelly Toast (pamhc2foodextended:strawberryjellytoastitem)
+10 -> 6 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Strawberry Juice (pamhc2foodextended:strawberryjuiceitem)
+5 -> 5 (* Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Strawberry Pie (pamhc2foodextended:strawberrypieitem)
+7
+1.20 -> 0.70 (General, * Pie)
+
+Strawberry Smoothie (pamhc2foodextended:strawberrysmoothieitem)
+7 -> 5 (* Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Strawberry Soda (pamhc2foodextended:strawberrysodaitem)
+4 -> 5 (* Soda)
+1.20 -> 0.70 (General, * Soda)
+
+Strawberry Yogurt (pamhc2foodextended:strawberryyogurtitem)
+5 -> 4 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Stuffed Chili Peppers (pamhc2foodextended:stuffedchilipeppersitem)
+13 -> 11 (General)
+1.20 -> 0.50 (General)
+
+Sunflower Seeds Butter (pamhc2foodextended:sunflowerseedsbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Supreme Pizza (pamhc2foodextended:supremepizzaitem)
+21 -> 15 (General)
+1.20 -> 0.50 (General)
+
+Taco (pamhc2foodextended:tacoitem)
+15 -> 12 (General)
+1.20 -> 0.50 (General)
+
+Tamarind Jelly (pamhc2foodextended:tamarindjellyitem)
+6 -> 5 (* Jelly)
+1.20 -> 0.50 (General, * Jelly)
+
+Tamarind Jelly Sandwich (pamhc2foodextended:tamarindjellysandwichitem)
+14 -> 8 (General, * Sandwich, * Jelly Sandwich)
+1.20 -> 0.60 (General, * Sandwich, * Jelly Sandwich)
+
+Tamarind Jelly Toast (pamhc2foodextended:tamarindjellytoastitem)
+12 -> 7 (General, * Toast)
+1.20 -> 0.60 (General, * Toast)
+
+Tamarind Juice (pamhc2foodextended:tamarindjuiceitem)
+9 -> 5 (General, * Juice)
+1.20 -> 0.30 (General, * Juice)
+
+Tamarind Pie (pamhc2foodextended:tamarindpieitem)
+9 -> 8 (General, * Pie)
+1.20 -> 0.70 (General, * Pie)
+
+Tamarind Smoothie (pamhc2foodextended:tamarindsmoothieitem)
+11 -> 5 (General, * Smoothie)
+1.20 -> 0.60 (General, * Smoothie)
+
+Tamarind Yogurt (pamhc2foodextended:tamarindyogurtitem)
+7 -> 5 (*Yogurt)
+1.20 -> 0.50 (General, *Yogurt)
+
+Theatre Box (pamhc2foodextended:theatreboxitem)
+15 -> 12 (General)
+1.20 -> 0.50 (General)
+
+Torilla Chips (pamhc2foodextended:tortillachipsitem)
+8 -> 7 (General, *Chips*)
+1.20 -> 0.40 (General, *Chips*)
+
+Tortilla (pamhc2foodextended:tortillaitem)
+4
+1.20 -> 0.50 (General)
+
+Walnut Butter (pamhc2foodextended:walnutbutteritem)
+2
+1.20 -> 0.50 (General)
+
+Arrowroot (pamhc2crops:arrowrootitem)
+1
+0.30 -> 0.50 (General)
+
+Artichoke (pamhc2crops:artichokeitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Asparagus (pamhc2crops:asparagusitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Baked Arrowroot (pamhc2crops:bakedarrowrootitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Cassava (pamhc2crops:bakedcassavaitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Jicama (pamhc2crops:bakedjicamaitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Parsnip (pamhc2crops:bakedparsnipitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Rutabaga (pamhc2crops:bakedrutabagaitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Sweet Potato (pamhc2crops:bakedsweetpotatoitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Taro (pamhc2crops:bakedtaroitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Turnip (pamhc2crops:bakedturnipitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Baked Water Chestnut (pamhc2crops:bakedwaterchestnutitem)
+5 -> 4 (Baked *)
+0.60 -> 0.60 (General, Baked *)
+
+Bellpepper (pamhc2crops:bellpepperitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Blackberry (pamhc2crops:blackberryitem)
+2
+0.10 -> 0.50 (General)
+
+Blueberry (pamhc2crops:blueberryitem)
+2
+0.10 -> 0.50 (General)
+
+Broccoli (pamhc2crops:broccoliitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Brusselsprout (pamhc2crops:brusselsproutitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Cabbage (pamhc2crops:cabbageitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Cactusfruit (pamhc2crops:cactusfruititem)
+2
+0.30 -> 0.50 (General)
+
+Candleberry (pamhc2crops:candleberryitem)
+2
+0.10 -> 0.50 (General)
+
+Cantaloupe (pamhc2crops:cantaloupeitem)
+2
+0.30 -> 0.50 (General)
+
+Cassava (pamhc2crops:cassavaitem)
+1
+0.30 -> 0.50 (General)
+
+Cauliflower (pamhc2crops:caulifloweritem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Celery (pamhc2crops:celeryitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Chilipepper (pamhc2crops:chilipepperitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Cranberry (pamhc2crops:cranberryitem)
+2
+0.10 -> 0.50 (General)
+
+Cucumber (pamhc2crops:cucumberitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Eggplant (pamhc2crops:eggplantitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Elderberry (pamhc2crops:elderberryitem)
+2
+0.10 -> 0.50 (General)
+
+Garlic (pamhc2crops:garlicitem)
+1
+0.30 -> 0.50 (General)
+
+Grape (pamhc2crops:grapeitem)
+2
+0.30 -> 0.50 (General)
+
+Green Grape (pamhc2crops:greengrapeitem)
+2
+0.30 -> 0.50 (General)
+
+Hot Coffee (pamhc2crops:hotcoffeeitem)
+3 -> 3 (Big Vegetables, Hot *)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Hot Tea (pamhc2crops:hotteaitem)
+3 -> 3 (Big Vegetables, Hot *)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Huckleberry (pamhc2crops:huckleberryitem)
+2
+0.10 -> 0.50 (General)
+
+Jicama (pamhc2crops:jicamaitem)
+1
+0.30 -> 0.50 (General)
+
+Juniperberry (pamhc2crops:juniperberryitem)
+2
+0.10 -> 0.50 (General)
+
+Kale (pamhc2crops:kaleitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Kiwi (pamhc2crops:kiwiitem)
+2
+0.30 -> 0.50 (General)
+
+Kohlrabi (pamhc2crops:kohlrabiitem)
+1
+0.30 -> 0.50 (General)
+
+Leek (pamhc2crops:leekitem)
+1
+0.30 -> 0.50 (General)
+
+Lettuce (pamhc2crops:lettuceitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Mulberry (pamhc2crops:mulberryitem)
+2
+0.10 -> 0.50 (General)
+
+Okra (pamhc2crops:okraitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Onion (pamhc2crops:onionitem)
+1
+0.30 -> 0.50 (General)
+
+Parsnip (pamhc2crops:parsnipitem)
+1
+0.30 -> 0.50 (General)
+
+Peanut (pamhc2crops:peanutitem)
+1
+0.30 -> 0.50 (General)
+
+Peas (pamhc2crops:peasitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Pineapple (pamhc2crops:pineappleitem)
+2
+0.30 -> 0.50 (General)
+
+Radish (pamhc2crops:radishitem)
+1
+0.30 -> 0.50 (General)
+
+Raspberry (pamhc2crops:raspberryitem)
+2
+0.10 -> 0.50 (General)
+
+Rhubarb (pamhc2crops:rhubarbitem)
+1
+0.30 -> 0.50 (General)
+
+Roasted Garlic (pamhc2crops:roastedgarlicitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Kohlrabi (pamhc2crops:roastedkohlrabiitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Leek (pamhc2crops:roastedleekitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Mushroom (pamhc2crops:roastedmushroomitem)
+3 -> 4 (Big Vegetables, Roasted *)
+0.60 -> 0.60 (General, Big Vegetables, Roasted *)
+
+Roasted Onion (pamhc2crops:roastedonionitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Peanut (pamhc2crops:roastedpeanutitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Radish (pamhc2crops:roastedradishitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Rhubarb (pamhc2crops:roastedrhubarbitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Scallion (pamhc2crops:roastedscallionitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Rutabaga (pamhc2crops:rutabagaitem)
+1
+0.30 -> 0.50 (General)
+
+Scallion (pamhc2crops:scallionitem)
+1
+0.30 -> 0.50 (General)
+
+Spiceleaf (pamhc2crops:spiceleafitem)
+1
+0.10 -> 0.50 (General)
+
+Spinach (pamhc2crops:spinachitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Strawberry (pamhc2crops:strawberryitem)
+2
+0.10 -> 0.50 (General)
+
+Sweet Potato (pamhc2crops:sweetpotatoitem)
+1
+0.30 -> 0.50 (General)
+
+Taro (pamhc2crops:taroitem)
+1
+0.30 -> 0.50 (General)
+
+Tomatillo (pamhc2crops:tomatilloitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Tomato (pamhc2crops:tomatoitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Turnip (pamhc2crops:turnipitem)
+1
+0.30 -> 0.50 (General)
+
+Waterchestnut (pamhc2crops:waterchestnutitem)
+1
+0.30 -> 0.50 (General)
+
+White Mushroom (pamhc2crops:whitemushroomitem)
+1
+0.30 -> 0.50 (General)
+
+Winter Squash (pamhc2crops:wintersquashitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Zucchini (pamhc2crops:zucchiniitem)
+3 -> 2 (Big Vegetables)
+0.60 -> 0.50 (General, Big Vegetables)
+
+Almond (pamhc2trees:almonditem)
+1
+0.30 -> 0.50 (General)
+
+Apricot (pamhc2trees:apricotitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Avocado (pamhc2trees:avocadoitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Banana (pamhc2trees:bananaitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Breadfruit (pamhc2trees:breadfruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Candlenut (pamhc2trees:candlenutitem)
+1
+0.10 -> 0.50 (General)
+
+Cashew (pamhc2trees:cashewitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Cherry (pamhc2trees:cherryitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Chestnut (pamhc2trees:chestnutitem)
+1
+0.30 -> 0.50 (General)
+
+Coconut (pamhc2trees:coconutitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Date (pamhc2trees:dateitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Dragonfruit (pamhc2trees:dragonfruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Durian (pamhc2trees:durianitem)
+1
+0.10 -> 0.50 (General)
+
+Fig (pamhc2trees:figitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Gooseberry (pamhc2trees:gooseberryitem)
+2
+0.10 -> 0.50 (General)
+
+Grapefruit (pamhc2trees:grapefruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Guava (pamhc2trees:guavaitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Hazelnut (pamhc2trees:hazelnutitem)
+1
+0.30 -> 0.50 (General)
+
+Jackfruit (pamhc2trees:jackfruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Lemon (pamhc2trees:lemonitem)
+1
+0.10 -> 0.50 (General)
+
+Lime (pamhc2trees:limeitem)
+1
+0.10 -> 0.50 (General)
+
+Lychee (pamhc2trees:lycheeitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Mango (pamhc2trees:mangoitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+item.pamhc2trees.maplesyrupitem (pamhc2trees:maplesyrupitem)
+1
+0.10 -> 0.50 (General)
+
+Olive (pamhc2trees:oliveitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Orange (pamhc2trees:orangeitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Papaya (pamhc2trees:papayaitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Passionfruit (pamhc2trees:passionfruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Pawpaw (pamhc2trees:pawpawitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Peach (pamhc2trees:peachitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Pear (pamhc2trees:pearitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Pecan (pamhc2trees:pecanitem)
+1
+0.30 -> 0.50 (General)
+
+Persimmon (pamhc2trees:persimmonitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Pinenuts (pamhc2trees:pinenutitem)
+1
+0.30 -> 0.50 (General)
+
+Pistachio (pamhc2trees:pistachioitem)
+1
+0.30 -> 0.50 (General)
+
+Plum (pamhc2trees:plumitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Pomegranate (pamhc2trees:pomegranateitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Rambutan (pamhc2trees:rambutanitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Roasted Almond (pamhc2trees:roastedalmonditem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Cashew (pamhc2trees:roastedcashewitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Chestnut (pamhc2trees:roastedchestnutitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Hazelnut (pamhc2trees:roastedhazelnutitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Pecan (pamhc2trees:roastedpecanitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Pinenuts (pamhc2trees:roastedpinenutitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Pistachio (pamhc2trees:roastedpistachioitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Roasted Walnut (pamhc2trees:roastedwalnutitem)
+5 -> 4 (Roasted *)
+0.60 -> 0.60 (General, Roasted *)
+
+Soursop (pamhc2trees:soursopitem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Starfruit (pamhc2trees:starfruititem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Tamarind (pamhc2trees:tamarinditem)
+4 -> 3 (Big Fruits)
+0.30 -> 0.30 (General, Big Fruits)
+
+Walnut (pamhc2trees:walnutitem)
+1
+0.30 -> 0.50 (General)
+
